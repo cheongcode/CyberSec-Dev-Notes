@@ -11,9 +11,11 @@
             "id": "e818d74e4944a718",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "2024-09-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-09-06.md"
+              }
             }
           },
           {
@@ -168,14 +174,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d054b0698dd922c3",
+  "active": "e818d74e4944a718",
   "lastOpenFiles": [
+    "Tags",
+    "Untitled.canvas",
+    "TryHackMe/TryHackMe.md",
     "README.md",
-    "Test Folder",
-    "New folder",
+    "TryHackMe",
     "Vault.md",
     "2024-09-06.md",
-    "Untitled.canvas",
-    "Tags"
+    "Untitled.md",
+    "Test Folder",
+    "New folder"
   ]
 }
