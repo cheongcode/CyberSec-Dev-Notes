@@ -21,4 +21,7 @@ Which of the following options better represents the process where you simulate 
 
 Answer:
 
+```
+Offensive Security
+```
 > Offensive Security
