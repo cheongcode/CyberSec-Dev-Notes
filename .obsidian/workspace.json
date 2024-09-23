@@ -11,11 +11,9 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
-                "mode": "source",
-                "source": false
+                "path": "TryHackMe/Pre_Security_Path/Images"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,19 +171,19 @@
   "active": "27025d735896491a",
   "lastOpenFiles": [
     "TryHackMe/Pre_Security_Path/Images/Images.md",
-    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923165128.png",
-    "README.md",
+    "TryHackMe/Pre_Security_Path/Images/3.png",
+    "TryHackMe/Pre_Security_Path/Images/4.png",
+    "TryHackMe/Pre_Security_Path/Images/2.png",
+    "TryHackMe/Pre_Security_Path/Images/1.png",
+    "HackTheBox/HackTheBox.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+    "README.md",
     "TryHackMe/Pre_Security_Path/Pre_Security_Path.md",
-    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923170320.png",
     "TryHackMe/Pre_Security_Path/Images",
     "TryHackMe/Pre_Security_Path/Untitled.md",
     "TryHackMe/Pre_Security_Path/.md",
     "TryHackMe/Pre_Security_Path/Untitled 1.md",
     "TryHackMe/Untitled.md",
-    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923170244.png",
-    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923165645.png",
-    "HackTheBox/HackTheBox.md",
     "TryHackMe/Pre_Security_Path",
     "TryHackMe/TryHackMe.md",
     "Untitled.md",
