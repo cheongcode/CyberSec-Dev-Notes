@@ -14,3 +14,4 @@
 # Optional: Ignore any system files or temporary files
 .DS_Store
 Thumbs.db
+.mdb

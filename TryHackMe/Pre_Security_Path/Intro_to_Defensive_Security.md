@@ -103,8 +103,17 @@ Next, we want to learn more about the suspicious activity or event. The suspicio
 Just click on the View Site Button and we see an SIEM panel. From here as we mouse over and realize there is an unauthorized connection in red.
 ![[Images/5.png]]
 Upon clicking on it we can see an IP-scanner, we will then drop the IP address and submit
-![[Pasted image 20240923175111.png]]
+![[Images/6.png]]
 Oh Gee, it's malicious, who could've guessed...
-![[Pasted image 20240923175327.png]]
+![[Images/7.png]]
 Click Next and Select the right staff member. (Yes if you read the instructions, you're part of SOC, means Will Griffin is your boss apparently)
-![[Pasted image 20240923175454.png]]
+![[Images/8.png]]
+We will then block that IP address (you obviously want to block malicious things right?)
+![[Images/9.png]]
+Andddd we got the flag.
+![[Images/10.png]]
+Here's the flag for you to copy if you read until here and you're lazy ~
+```
+THM{THREAT-BLOCKED}
+```
+On to the next one I guess.

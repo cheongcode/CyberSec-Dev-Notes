@@ -11,6 +11,16 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "TryHackMe/Pre_Security_Path/Images/10.png"
+              }
+            }
+          },
+          {
+            "id": "2da0f022b879b389",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,13 +185,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27025d735896491a",
+  "active": "2da0f022b879b389",
   "lastOpenFiles": [
-    "Pasted image 20240923175454.png",
-    "Pasted image 20240923175327.png",
-    "Pasted image 20240923175111.png",
-    "TryHackMe/Pre_Security_Path/Images/Images.md",
+    "TryHackMe/Pre_Security_Path/Images/6.png",
+    "TryHackMe/Pre_Security_Path/Images/10.png",
+    "TryHackMe/Pre_Security_Path/Images/7.png",
     "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
+    "TryHackMe/Pre_Security_Path/Images/9.png",
+    "TryHackMe/Pre_Security_Path/Images/8.png",
+    "TryHackMe/Pre_Security_Path/Images/Images.md",
     "TryHackMe/Pre_Security_Path/Images/5.png",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "TryHackMe/TryHackMe.md",
