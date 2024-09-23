@@ -104,13 +104,13 @@ Just click on the View Site Button and we see an SIEM panel. From here as we mou
 ![Output](Images/5.png)
 
 Upon clicking on it we can see an IP-scanner, we will then drop the IP address and submit
-![[Images/6.png]]
+![Output](Images/6.png)
 Oh Gee, it's malicious, who could've guessed...
-![[Images/7.png]]
+![Output](Images/7.png)
 Click Next and Select the right staff member. (Yes if you read the instructions, you're part of SOC, means Will Griffin is your boss apparently)
-![[Images/8.png]]
+![Output](Images/8.png)
 We will then block that IP address (you obviously want to block malicious things right?)
-![[Images/9.png]]
+![Output](Images/9.png)
 Andddd we got the flag.
 ![[Images/10.png]]
 Here's the flag for you to copy if you read until here and you're lazy ~
