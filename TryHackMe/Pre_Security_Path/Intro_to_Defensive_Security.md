@@ -112,7 +112,7 @@ Click Next and Select the right staff member. (Yes if you read the instructions,
 We will then block that IP address (you obviously want to block malicious things right?)
 ![Output](Images/9.png)
 Andddd we got the flag.
-![[Images/10.png]]
+![Output](Images/10.png)
 Here's the flag for you to copy if you read until here and you're lazy ~
 ```
 THM{THREAT-BLOCKED}
