@@ -27,7 +27,7 @@ We will be running GoBuster for this simple exercise , so just open the terminal
 ```
 gobuster -u http://fakebank.com -w wordlist.txt dir
 ```
-![Output](Pre_Security_Path/Images/2.png)
+![Output](Images/2.png)
 
 **Gobuster** is a tool used for brute-forcing URLs, directories, DNS subdomains, and virtual host names on web servers. It helps identify hidden resources, directories, or files by testing various wordlists against the target, which is useful in penetration testing and vulnerability assessments. (Thought you might be wondering what it does so here's something by ChatGPT)
 
