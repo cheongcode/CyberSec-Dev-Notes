@@ -20,7 +20,7 @@ We will use a command-line application called "GoBuster" to brute-force FakeBank
 
 I'm just gonna use TryHackMe's virtual machine for this exercise
 
-![Output](Pre_Security_Path/Images/1.png)
+![Output](Images/1.png)
 
 
 We will be running GoBuster for this simple exercise , so just open the terminal and copy and paste the code in based on the instructions:
@@ -35,9 +35,9 @@ You should have found a secret bank transfer page that allows you to transfer mo
 This page allows an attacker to steal money from any bank account, which is a critical risk for the bank. As an ethical hacker, you would (with permission) find vulnerabilities in their application and report them to the bank to fix before a hacker exploits them.  
 
 Transfer $2000 from the bank account 2276, to your account (account number 8881).
-![Output](Pre_Security_Path/Images/3.png)
+![Output](Images/3.png)
 If your transfer was successful, you should now be able to see your new balance reflected on your account page. Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)
-![Output](Pre_Security_Path/Images/4.png)
+![Output](Images/4.png)
 Above your account balance, you should now see a message indicating the answer to this question. Can you find the answer you need?
 Answer:
 ```
