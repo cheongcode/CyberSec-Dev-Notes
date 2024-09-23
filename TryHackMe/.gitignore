@@ -1,0 +1,15 @@
+# Ignore .makemd directory
+.makemd/
+
+# Ignore .space directory
+.space/
+
+# Ignore .trash directory
+.trash/
+
+# Ignore .trash directory
+.TryHackMe.md/
+
+# Optional: Ignore any system files or temporary files
+.DS_Store
+Thumbs.db
