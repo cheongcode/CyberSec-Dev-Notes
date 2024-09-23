@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md"
+                "file": "README.md"
               }
             }
           },
@@ -176,13 +176,18 @@
   },
   "active": "e818d74e4944a718",
   "lastOpenFiles": [
-    "Pasted image 20240923170320.png",
-    "Pasted image 20240923170244.png",
-    "Pasted image 20240923165645.png",
-    "Pasted image 20240923165128.png",
-    "TryHackMe/Pre_Security_Path/Untitled.md",
-    "TryHackMe/Pre_Security_Path/Pre_Security_Path.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+    "TryHackMe/Pre_Security_Path/Pre_Security_Path.md",
+    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923170320.png",
+    "TryHackMe/Pre_Security_Path/Images/Images.md",
+    "TryHackMe/Pre_Security_Path/Images",
+    "TryHackMe/Pre_Security_Path/Untitled.md",
+    "TryHackMe/Pre_Security_Path/.md",
+    "TryHackMe/Pre_Security_Path/Untitled 1.md",
+    "TryHackMe/Untitled.md",
+    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923170244.png",
+    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923165645.png",
+    "TryHackMe/Pre_Security_Path/Images/Pasted image 20240923165128.png",
     "HackTheBox/HackTheBox.md",
     "TryHackMe/Pre_Security_Path",
     "TryHackMe/TryHackMe.md",
