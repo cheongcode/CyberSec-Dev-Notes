@@ -43,10 +43,7 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedSpaces": [
-    "//TryHackMe",
-    "/"
-  ],
+  "expandedSpaces": [],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -83,7 +80,7 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Test",
+  "systemName": "CyberSec-Dev-Notes By Brandon",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,

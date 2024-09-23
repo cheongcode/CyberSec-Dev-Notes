@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "TryHackMe"
+                "path": "/"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/TryHackMe.md",
+                "file": "Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/TryHackMe.md",
+                "file": "Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/TryHackMe.md"
+                "file": "Vault.md"
               }
             }
           },
@@ -172,17 +172,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71981a5b4baece34",
+  "active": "b584b9e8473c8a8e",
   "lastOpenFiles": [
-    "Canvas.canvas",
-    "2024-09-06.md",
+    "Vault.md",
     "README.md",
     "TryHackMe/TryHackMe.md",
+    "Untitled.md",
+    "Canvas.canvas",
+    "2024-09-06.md",
     "New Text Document.txt",
     "Tags",
     "TryHackMe",
-    "Vault.md",
-    "Untitled.md",
     "Test Folder",
     "New folder"
   ]
