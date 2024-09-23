@@ -20,13 +20,15 @@ We will use a command-line application called "GoBuster" to brute-force FakeBank
 
 I'm just gonna use TryHackMe's virtual machine for this exercise
 
-![[Pasted image 20240923165128.png]]
+![GoBuster Output](Pasted%20image%2020240923165128.png)
+
 
 We will be running GoBuster for this simple exercise , so just open the terminal and copy and paste the code in based on the instructions:
 ```
 gobuster -u http://fakebank.com -w wordlist.txt dir
 ```
 ![[Pasted image 20240923165645.png]]
+
 **Gobuster** is a tool used for brute-forcing URLs, directories, DNS subdomains, and virtual host names on web servers. It helps identify hidden resources, directories, or files by testing various wordlists against the target, which is useful in penetration testing and vulnerability assessments. (Thought you might be wondering what it does so here's something by ChatGPT)
 
 You should have found a secret bank transfer page that allows you to transfer money between accounts at the bank (/bank-transfer). Type the hidden page into the FakeBank website on the machine.
