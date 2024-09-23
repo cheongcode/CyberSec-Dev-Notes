@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md"
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md"
               }
             }
           },
@@ -176,10 +176,12 @@
   },
   "active": "e818d74e4944a718",
   "lastOpenFiles": [
-    "TryHackMe/Pre Security Path/Pre Security Path.md",
-    "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
+    "Pasted image 20240923165128.png",
+    "TryHackMe/Pre_Security_Path/Untitled.md",
+    "TryHackMe/Pre_Security_Path/Pre_Security_Path.md",
+    "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "HackTheBox/HackTheBox.md",
-    "TryHackMe/Pre Security Path",
+    "TryHackMe/Pre_Security_Path",
     "TryHackMe/TryHackMe.md",
     "Untitled.md",
     "HackTheBox",
