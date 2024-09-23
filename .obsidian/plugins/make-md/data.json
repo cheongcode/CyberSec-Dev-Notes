@@ -43,7 +43,13 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedSpaces": [],
+  "expandedSpaces": [
+    "/",
+    "//HackTheBox",
+    "//Tags",
+    "//TryHackMe",
+    "//TryHackMe/TryHackMe/Pre Security Path"
+  ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

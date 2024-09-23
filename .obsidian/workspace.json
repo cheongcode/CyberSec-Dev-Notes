@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "TryHackMe/Pre Security Path"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
+                "file": "TryHackMe/Pre Security Path/Pre Security Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault.md",
+                "file": "TryHackMe/Pre Security Path/Pre Security Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault.md"
+                "file": "TryHackMe/Pre Security Path/Pre Security Path.md"
               }
             }
           },
@@ -172,12 +172,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b584b9e8473c8a8e",
+  "active": "1280eb4e32e906f8",
   "lastOpenFiles": [
-    "Vault.md",
-    "README.md",
+    "TryHackMe/Pre Security Path/Untitled.md",
+    "TryHackMe/Pre Security Path/Pre Security Path.md",
+    "TryHackMe/Pre Security Path",
     "TryHackMe/TryHackMe.md",
     "Untitled.md",
+    "HackTheBox/HackTheBox.md",
+    "HackTheBox",
+    "Vault.md",
+    "README.md",
     "Canvas.canvas",
     "2024-09-06.md",
     "New Text Document.txt",
