@@ -20,8 +20,6 @@ Which of the following options better represents the process where you simulate 
 - Defensive Security
 
 Answer:
-
 ```
 Offensive Security
 ```
-> Offensive Security
