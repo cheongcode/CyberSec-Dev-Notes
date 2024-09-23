@@ -44,8 +44,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//TryHackMe"
+    "//TryHackMe",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
