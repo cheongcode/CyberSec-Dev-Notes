@@ -11,9 +11,11 @@
             "id": "e818d74e4944a718",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "TryHackMe/Pre Security Path"
+                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre Security Path/Pre Security Path.md",
+                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre Security Path/Pre Security Path.md",
+                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre Security Path/Pre Security Path.md"
+                "file": "TryHackMe/Pre Security Path/Intro to Offensive Security.md"
               }
             }
           },
@@ -172,14 +174,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1280eb4e32e906f8",
+  "active": "e818d74e4944a718",
   "lastOpenFiles": [
-    "TryHackMe/Pre Security Path/Untitled.md",
     "TryHackMe/Pre Security Path/Pre Security Path.md",
+    "TryHackMe/Pre Security Path/Intro to Offensive Security.md",
+    "HackTheBox/HackTheBox.md",
     "TryHackMe/Pre Security Path",
     "TryHackMe/TryHackMe.md",
     "Untitled.md",
-    "HackTheBox/HackTheBox.md",
     "HackTheBox",
     "Vault.md",
     "README.md",
