@@ -11,9 +11,11 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "TryHackMe/Pre_Security_Path/Images"
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md"
+              }
             }
           },
           {
