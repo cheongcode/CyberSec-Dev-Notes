@@ -107,13 +107,13 @@ Address Resolution Protocol
 ```
 What category of ARP Packet asks a device whether or not it has a specific IP address?
 ```
-Default Gateway
+Request
 ```
 What address is used as a physical identifier for a device on a network?
 ```
-Default Gateway
+MAC Address
 ```
 What address is used as a logical identifier for a device on a network?
 ```
-Default Gateway
+IP Address
 ```
