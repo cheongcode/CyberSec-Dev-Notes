@@ -2,6 +2,7 @@
 undefined: ""
 File: TryHackMe/Pre_Security_Path/Intro_to_LAN.md
 ---
+**Task 1**
 ## Local Area Network (LAN) Topologies
 ### Star Topology
 The main premise of a star topology is that devices are individually connected via a central networking device such as a switch or hub. This topology is the most commonly found today because of its reliability and scalability - despite the cost.
@@ -26,4 +27,31 @@ Lastly, ring topologies are less prone to bottlenecks, such as within a bus topo
     
 - **Router**: A router is a device that connects different networks (such as connecting a home network to the internet). It routes data between devices on different networks by using IP addresses and directs traffic, ensuring it reaches its correct destination across the network or internet.
 
-	
+Here's some quick definitions before I start giving answers.
+What does LAN stand for?
+```
+Local Area Network
+```
+What is the verb given to the job that Routers perform?
+```
+Routing
+```
+What device is used to centrally connect multiple devices on the local network and transmit data to the correct location?
+```
+Switch
+```
+What topology is cost-efficient to set up?
+```
+Bus Topology
+```
+What topology is expensive to set up and maintain?
+```
+Star Topology
+```
+Complete the interactive lab attached to this task. What is the flag given at the end?
+```
+THM{TOPOLOGY_FLAWS}
+```
+I'm uh too lazy to do the lab so here's the flag
+
+**Task 2**
