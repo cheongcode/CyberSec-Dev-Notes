@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_LAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_LAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_LAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md"
+                "file": "TryHackMe/Pre_Security_Path/Intro_to_LAN.md"
               }
             }
           },
@@ -185,14 +185,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2da0f022b879b389",
+  "active": "d054b0698dd922c3",
   "lastOpenFiles": [
+    "TryHackMe/Pre_Security_Path/Images/15.png",
+    "TryHackMe/Pre_Security_Path/Images/14.png",
+    "TryHackMe/Pre_Security_Path/Images/13.png",
+    "TryHackMe/Pre_Security_Path/Images/11.png",
+    "TryHackMe/Pre_Security_Path/What_is_Networking.md",
+    "TryHackMe/Pre_Security_Path/Intro_to_LAN.md",
+    "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "TryHackMe/Pre_Security_Path/Images/12.png",
     "TryHackMe/Pre_Security_Path/Images/Images.md",
-    "TryHackMe/Pre_Security_Path/What_is_Networking.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
-    "TryHackMe/Pre_Security_Path/Images/11.png",
-    "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "TryHackMe/Pre_Security_Path/Images/6.png",
     "TryHackMe/Pre_Security_Path/Images/10.png",
     "TryHackMe/Pre_Security_Path/Images/7.png",
@@ -202,8 +206,6 @@
     "TryHackMe/TryHackMe.md",
     "TryHackMe/Pre_Security_Path/Pre_Security_Path.md",
     "TryHackMe/ReadMe.md",
-    "TryHackMe/Pre_Security_Path/Images/3.png",
-    "TryHackMe/Pre_Security_Path/Images/4.png",
     "HackTheBox/HackTheBox.md",
     "README.md",
     "TryHackMe/Pre_Security_Path/Images",
