@@ -1,7 +1,3 @@
----
-undefined: 
-File: TryHackMe/Pre_Security_Path/Intro_to_LAN.md
----
 **Task 1**
 ## Local Area Network (LAN) Topologies
 ### Star Topology
