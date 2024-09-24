@@ -22,3 +22,8 @@ Because there is only one direction for data to travel across this topology, it 
 Lastly, ring topologies are less prone to bottlenecks, such as within a bus topology, as large amounts of traffic are not travelling across the network at any one time. The design of this topology does, however, mean that a fault such as cut cable, or broken device will result in the entire networking breaking.
 ![Output](Images/15.png)
 
+- **Switch**: A switch is a networking device that connects multiple devices within the same network (usually a Local Area Network, or LAN). It uses MAC addresses to forward data to the correct device, ensuring efficient communication between devices in the network.
+    
+- **Router**: A router is a device that connects different networks (such as connecting a home network to the internet). It routes data between devices on different networks by using IP addresses and directs traffic, ensuring it reaches its correct destination across the network or internet.
+
+	
