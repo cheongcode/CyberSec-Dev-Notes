@@ -55,3 +55,65 @@ THM{TOPOLOGY_FLAWS}
 I'm uh too lazy to do the lab so here's the flag
 
 **Task 2**
+Quick guide
+
+| Type            | Purpose                                                                                                                                        | Explanation                                                                                                                                                                                                                                          | Example       |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Network Address | This address identifies the start of the actual network and is used to identify a network's existence.                                         | For example, a device with the IP address of 192.168.1.100 will be on the network identified by 192.168.1.0\|                                                                                                                                        | 192.168.1.0   |
+| Host Address    | An IP address here is used to identify a device on the subnet                                                                                  | For example, a device will have the network address of 192.168.1.1                                                                                                                                                                                   | 192.168.1.100 |
+| Default Gateway | The default gateway address is a special address assigned to a device on the network that is capable of sending information to another network | Any data that needs to go to a device that isn't on the same network (i.e. isn't on 192.168.1.0) will be sent to this device. These devices can use any host address but usually use either the first or last host address in a network (.1 or .254) | 192.168.1.254 |
+Subnetting provides a range of benefits, including:
+- Efficiency
+- Security
+- Full control
+
+What is the technical term for dividing a network up into smaller pieces?
+```
+Subnetting
+```
+How many **bits** are in a subnet mask?
+```
+32
+```
+What is the range of a section (octet) of a subnet mask?
+```
+0-255
+```
+What address is used to identify the start of a network?
+```
+Network Address
+```
+What address is used to identify devices within a network?
+```
+Host Address
+```
+What is the name used to identify the device responsible for sending data to another network?
+```
+Default Gateway
+```
+**Task 3**
+How does ARP Work?
+Each device within a network has a ledger to store information on, which is called a cache. In the context of the ARP protocol, this cache stores the identifiers of other devices on the network.
+In order to map these two identifiers together (IP address and MAC address), the ARP protocol sends two types of messages:
+
+1. **ARP Request**
+2. **ARP Reply**
+
+When an **ARP request** is sent, a message is broadcasted on the network to other devices asking, "What is the mac address that owns this IP address?" When the other devices receive that message, they will only respond if they own that IP address and will send an **ARP reply** with its MAC address. The requesting device can now remember this mapping and store it in its **ARP cache** for future use.
+![Output](Images/16.png)
+What does ARP stand for?
+```
+Address Resolution Protocol
+```
+What category of ARP Packet asks a device whether or not it has a specific IP address?
+```
+Default Gateway
+```
+What address is used as a physical identifier for a device on a network?
+```
+Default Gateway
+```
+What address is used as a logical identifier for a device on a network?
+```
+Default Gateway
+```
