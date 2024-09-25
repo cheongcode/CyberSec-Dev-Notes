@@ -81,3 +81,33 @@ Layer 4 of the OSI model plays a vital part in transmitting data across a networ
 
 - TCP
 - UDP
+
+| **Advantages of TCP**                                                                    | **Disadvantages of TCP**                                                                                                                          |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Guarantees the accuracy of data.                                                         | Requires a reliable connection between the two devices. If one small chunk of data is not received, then the entire chunk of data cannot be used. |
+| Capable of synchronising two devices to prevent each other from being flooded with data. | A slow connection can bottleneck another device as the connection will be reserved on the receiving computer the whole time.                      |
+| Performs a lot more processes for reliability.                                           | TCP is significantly slower than UDP because more work has to be done by the devices using this protocol.\|                                       |
+
+TCP is used for situations such as file sharing, internet browsing or sending an email. This usage is because these services require the data to be accurate and complete (no good having half a file!).
+
+| **Advantages of UDP**                                                                                                 | **Disadvantages of UDP**                                                           |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| UDP is much faster than TCP.                                                                                          | UDP doesn't care if the data is received.                                          |
+| UDP leaves the application layer (user software) to decide if there is any control over how quickly packets are sent. | It is quite flexible to software developers in this sense.                         |
+| UDP does not reserve a continuous connection on a device as TCP does.                                                 | This means that unstable connections result in a terrible experience for the user. |
+UDP is useful in situations where there are small pieces of data being sent. For example, protocols used for discovering devices (_ARP_ and _DHCP_ ) or larger files such as video streaming (where it is okay if some part of the video is pixelated. 
+
+Answers:
+What is the name of this Layer?
+
+What does TCP stand for?
+
+What does UDP stand for?
+
+What protocol guarantees the accuracy of data?
+
+What protocol doesn't care if data is received or not by the other device?
+
+What protocol would an application such as an email client use?
+
+What protocol would an application that downloads files use?
