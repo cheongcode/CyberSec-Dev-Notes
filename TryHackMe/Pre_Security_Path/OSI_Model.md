@@ -195,3 +195,11 @@ Ethernet Cables
 ```
 
 **Task 9: OSI GAME**
+![Output](Images/19.png)
+Answers:
+Escape the dungeon to retrieve the flag. What is the flag?
+```
+THM{OSI_DUNGEON_ESCAPED}
+```
+
+I mean ... this whole room is pretty self explanatory, just know your layers and what it does
