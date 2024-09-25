@@ -1,4 +1,5 @@
 **Task 1**
+
 The **OSI** model (or **O**pen **S**ystems **I**nterconnection Model) is an absolute fundamental model used in networking.  This critical model provides a framework dictating how all networked devices will send, receive and interpret data.
 ![Output](Images/18.png)
 
@@ -35,7 +36,6 @@ Graphical User Interface
 ```
 
 **Task 3: LAYER 6 - PRESENTATION**
-
 
 Layer 6 of the OSI model is the layer in which standardisation starts to take place. Because software developers can develop any software such as an email client differently, the data still needs to be handled in the same way — no matter how the software works.
 
@@ -100,6 +100,7 @@ TCP is used for situations such as file sharing, internet browsing or sending a
 UDP is useful in situations where there are small pieces of data being sent. For example, protocols used for discovering devices (_ARP_ and _DHCP_ ) or larger files such as video streaming (where it is okay if some part of the video is pixelated. 
 
 Answers:
+
 What is the name of this Layer?
 ```
 Transport
@@ -203,6 +204,7 @@ Ethernet Cables
 ```
 
 **Task 9: OSI GAME**
+
 ![Output](Images/19.png)
 
 Answers:
