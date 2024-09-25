@@ -1,7 +1,9 @@
 **Task 1**
 The **OSI** model (or **O**pen **S**ystems **I**nterconnection Model) is an absolute fundamental model used in networking.  This critical model provides a framework dictating how all networked devices will send, receive and interpret data.
 ![Output](Images/18.png)
+
 Answers:
+
 What does the "OSI" in "OSI Model" stand for?
 ```
 Open Systems Interconnection
@@ -22,6 +24,7 @@ The application layer of the OSI model is the layer that you will be most famili
 Everyday applications such as email clients, browsers, or file server browsing software such as FileZilla provide a friendly, **G**raphical **U**ser **I**nterface (**GUI**) for users to interact with data sent or received. Other protocols include **DNS** (**D**omain **N**ame **S**ystem), which is how website addresses are translated into IP addresses.
 
 Answers:
+
 What is the name of this Layer?
 ```
 Application
@@ -41,6 +44,7 @@ This layer acts as a translator for data to and from the application layer (laye
 Security features such as data encryption (like HTTPS when visiting a secure site) occur at this layer.
 
 Answers:
+
 What is the name of this Layer?
 ```
 Presentation
@@ -59,6 +63,7 @@ The session layer (layer 5) synchronises the two computers to ensure that they a
 What is worthy of noting is that sessions are unique — meaning that data cannot travel over different sessions, but in fact, only across each session instead.
 
 Answers:
+
 What is the name of this Layer?
 ```
 Session
@@ -137,6 +142,7 @@ Whilst some protocols at this layer determine exactly what is the "optimal" path
 At this layer, everything is dealt with via IP addresses such as 192.168.1.100. Devices such as routers capable of delivering packets using IP addresses are known as Layer 3 devices — because they are capable of working at the third layer of the OSI model.
 
 Answers:
+
 What is the name of this Layer?
 ```
 Network
@@ -167,6 +173,7 @@ MAC addresses are set by the manufacturer and literally burnt into the card; the
 Additionally, it’s also the job of the data link layer to present the data in a format suitable for transmission.
 
 Answers:
+
 What is the name of this Layer?
 ```
 Data Link
@@ -181,6 +188,7 @@ Network Interface Card
 This layer is one of the easiest layers to grasp. Put simply, this layer references the physical components of the hardware used in networking and is the lowest layer that you will find. Devices use electrical signals to transfer data between each other in a binary numbering system (1's and 0's).
 
 Answers:
+
 What is the name of this Layer?
 ```
 Physical
@@ -196,7 +204,9 @@ Ethernet Cables
 
 **Task 9: OSI GAME**
 ![Output](Images/19.png)
+
 Answers:
+
 Escape the dungeon to retrieve the flag. What is the flag?
 ```
 THM{OSI_DUNGEON_ESCAPED}
