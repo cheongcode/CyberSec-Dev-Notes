@@ -1,7 +1,7 @@
 ## URL
 
 Resources over HTTP are accessed via a `URL`, which offers many more specifications than simply specifying a website we want to visit. Let's look at the structure of a URL:
-![Output](Images/1.png)
+![Output](HackTheBox/Web_Requests/Images/1.png)
 
 | **Component**  | **Example**          | **Description**                                                                                                                                                                       |
 | -------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,7 +13,7 @@ Resources over HTTP are accessed via a `URL`, which offers many more specificat
 | `Query String` | `?login=true`        | The query string starts with a question mark (`?`), and consists of a parameter (e.g. `login`) and a value (e.g. `true`). Multiple parameters can be separated by an ampersand (`&`). |
 | `Fragments`    | `#status`            | Fragments are processed by the browsers on the client-side to locate sections within the primary resource (e.g. a header or section on the page).                                     |
 
-![Output](HackTheBox/Images/2.png)
+![Output](HackTheBox/Web_Requests/Images/2.png)
 
 The first time a user enters the URL (`inlanefreight.com`) into the browser, it sends a request to a DNS (Domain Name Resolution) server to resolve the domain and get its IP. The DNS server looks up the IP address for `inlanefreight.com` and returns it. All domain names need to be resolved this way, as a server can't communicate without an IP address.
 
@@ -29,7 +29,7 @@ In this module, we will be sending web requests through two of the most importan
 
 We can send a basic HTTP request to any URL by using it as an argument for cURL, as follows:
 
-![Output](Images/3.png)
+![Output](HackTheBox/Web_Requests/Images/3.png)
 
 Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheets folder !![Output](HackTheBox/Cheatsheets/curl_commands.pdf)
 
