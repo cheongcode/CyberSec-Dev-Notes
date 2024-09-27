@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Packets_and_Frames.md"
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md"
               }
             }
           },
@@ -185,29 +185,32 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2da0f022b879b389",
+  "active": "d054b0698dd922c3",
   "lastOpenFiles": [
+    "HackTheBox/Cheatsheets/curl_commands.pdf",
+    "HackTheBox/Cheatsheets/Cheatsheets.md",
+    "HackTheBox/Cheatsheets",
+    "HackTheBox/Images/2.png",
+    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+    "HackTheBox/Images/3.png",
+    "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
+    "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
+    "HackTheBox/Web_Requests/Web_Requests.md",
+    "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
     "TryHackMe/Pre_Security_Path/OSI_Model.md",
     "TryHackMe/Pre_Security_Path/Intro_to_LAN.md",
-    "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "TryHackMe/Pre_Security_Path/Images/1.png",
     "TryHackMe/Pre_Security_Path/Images/24.png",
     "HackTheBox/Images/1.png",
     "HackTheBox/Images/Images.md",
     "HackTheBox/Images",
-    "HackTheBox/Web_Requests/Web_Requests.md",
     "HackTheBox/Web_Requests",
     "TryHackMe/Pre_Security_Path/Images/10.png",
     "TryHackMe/Pre_Security_Path/Images/23.png",
     "TryHackMe/Pre_Security_Path/Images/22.png",
     "TryHackMe/Pre_Security_Path/Images/21.png",
     "TryHackMe/Pre_Security_Path/Images/20.png",
-    "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
-    "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
     "TryHackMe/Pre_Security_Path/What_is_Networking.md",
-    "TryHackMe/Pre_Security_Path/Images/19.png",
-    "TryHackMe/Pre_Security_Path/Images/17.png",
     "TryHackMe/Pre_Security_Path/Images/Images.md",
     "TryHackMe/TryHackMe.md",
     "TryHackMe/Pre_Security_Path/Pre_Security_Path.md",
@@ -226,7 +229,6 @@
     "New Text Document.txt",
     "Tags",
     "TryHackMe",
-    "Test Folder",
-    "New folder"
+    "Test Folder"
   ]
 }

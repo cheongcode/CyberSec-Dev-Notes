@@ -51,7 +51,9 @@
     "//TryHackMe/TryHackMe/Pre_Security_Path/TryHackMe/Pre_Security_Path/Images",
     "//HackTheBox",
     "//HackTheBox/HackTheBox/Web_Requests",
-    "//TryHackMe"
+    "//TryHackMe",
+    "//HackTheBox/HackTheBox/Images",
+    "//HackTheBox/HackTheBox/Cheatsheets"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
