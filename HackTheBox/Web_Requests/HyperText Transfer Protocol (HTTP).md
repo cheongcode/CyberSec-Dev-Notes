@@ -29,7 +29,7 @@ In this module, we will be sending web requests through two of the most importan
 
 We can send a basic HTTP request to any URL by using it as an argument for cURL, as follows:
 
-![Output](HackTheBox/Images/3.png)
+![Output](Images/3.png)
 
 Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheets folder !![Output](HackTheBox/Cheatsheets/curl_commands.pdf)
 
