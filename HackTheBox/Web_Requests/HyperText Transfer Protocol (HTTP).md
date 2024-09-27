@@ -31,5 +31,5 @@ We can send a basic HTTP request to any URL by using it as an argument for cURL,
 
 ![Output](HackTheBox/Images/3.png)
 
-Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheets folder !![Output](HackTheBox/Images/3.png)
+Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheets folder !![Output](HackTheBox/Cheatsheets/curl_commands.pdf)
 
