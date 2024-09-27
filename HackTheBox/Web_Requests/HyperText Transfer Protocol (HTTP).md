@@ -37,16 +37,18 @@ Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheet
 
 Step 1: Open the bash (if you can't maybe you probably spawned the wrong instance or perhaps even the wrong OS)
 
-Step 2: Do a curl command, can probably use -s -O to silent the status , here's a quick guide from curl -h
+Step 2: Do a curl command, can probably use -s -O to silent the status , here's a quick guide from curl -h as well as the command i did
+ `curl -s -O 94.237.56.229:59860/download.php`
 ```shell-session
  -O, --remote-name   Write output to a file named as the remote file
  -s, --silent        Silent mode
 ```
 
-
+Step 3: ls and cat, if you can't maybe you need an intro to linux, and bam you get the flag, welcome to HackTheBox where your pain has JUST started.
 
 ![Output](Images/4.png)
 
+Here's the flag if you're lazy:
 ```
 HTB{64$!c_cURL_u$3r}
 ```
