@@ -38,6 +38,7 @@ One defining feature of TCP is that it is **connection-based**, which means t
 | Guarantees the integrity of data.                                                                           | Requires a reliable connection between the two devices. If one small chunk of data is not received, then the entire chunk of data cannot be used and must be re-sent. |
 | Capable of synchronising two devices to prevent each other from being flooded with data in the wrong order. | A slow connection can bottleneck another device as the connection will be reserved on the other device the whole time.                                                |
 | Performs a lot more processes for reliability                                                               | TCP is significantly slower than UDP because more work (computing) has to be done by the devices using this protocol.                                                 |
+
 Here are some important headers to note, better start memorising :)
 
 | Header                 | Description                                                                                                                                                                                                                                         |
@@ -51,6 +52,7 @@ Here are some important headers to note, better start memorising :)
 | Checksum               | This value is what gives TCP integrity. A mathematical calculation is made where the output is remembered. When the receiving device performs the mathematical calculation, the data must be corrupt if the output is different from what was sent. |
 | Data                   | This header is where the data, i.e. bytes of a file that is being transmitted, is stored.                                                                                                                                                           |
 | Flag                   | This header determines how the packet should be handled by either device during the handshake process. Specific flags will determine specific behaviours, which is what we'll come on to explain below.                                             |
+
 And here are the important flags, gotta expand your brain abit more for this one...
 
 | **Step** | **Message** | **Description**                                                                                                                                                                                                                                    |
@@ -63,8 +65,11 @@ And here are the important flags, gotta expand your brain abit more for this one
 | #        | RST         | This packet abruptly ends all communication. This is the last resort and indicates there was some problem during the process. For example, if the service or application is not working correctly, or the system has faults such as low resources. |
 
 Here's how it looks like.
+
 ![Output](Images/20.png)
+
 Here's how **closing a connection** it looks like.
+
 ![Output](Images/21.png)
 
 Answers:
