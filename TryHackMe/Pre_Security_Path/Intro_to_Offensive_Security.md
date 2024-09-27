@@ -37,7 +37,7 @@ This page allows an attacker to steal money from any bank account, which is a cr
 Transfer $2000 from the bank account 2276, to your account (account number 8881).
 ![Output](TryHackMe/Pre_Security_Path/Images/3.png)
 If your transfer was successful, you should now be able to see your new balance reflected on your account page. Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)
-![Output](Images/4.png)
+![Output](TryHackMe/Pre_Security_Path/Images/4.png)
 Above your account balance, you should now see a message indicating the answer to this question. Can you find the answer you need?
 Answer:
 ```

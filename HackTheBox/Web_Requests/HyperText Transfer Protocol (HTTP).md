@@ -37,7 +37,15 @@ Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheet
 
 Step 1: Open the bash (if you can't maybe you probably spawned the wrong instance or perhaps even the wrong OS)
 
+Step 2: Do a curl command, can probably use -s -O to silent the status , here's a quick guide from curl -h
+```shell-session
+ -O, --remote-name   Write output to a file named as the remote file
+ -s, --silent        Silent mode
+```
 
+
+
+![Output](Images/4.png)
 
 ```
 HTB{64$!c_cURL_u$3r}
