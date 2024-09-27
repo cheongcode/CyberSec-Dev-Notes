@@ -33,3 +33,12 @@ We can send a basic HTTP request to any URL by using it as an argument for cURL,
 
 Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheets folder !![Output](Cheatsheets/curl_commands.pdf)
 
+ To get the flag, start the above exercise, then use cURL to download the file returned by '/download.php' in the server shown above.
+
+Step 1: Open the bash (if you can't maybe you probably spawned the wrong instance or perhaps even the wrong OS)
+
+
+
+```
+HTB{64$!c_cURL_u$3r}
+```

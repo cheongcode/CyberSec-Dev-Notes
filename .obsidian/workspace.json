@@ -187,22 +187,22 @@
   },
   "active": "2da0f022b879b389",
   "lastOpenFiles": [
+    "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
+    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+    "HackTheBox/Web_Requests/Images/Images.md",
     "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
     "HackTheBox/Web_Requests/Cheatsheets/Cheatsheets.md",
     "HackTheBox/Web_Requests/Cheatsheets",
     "HackTheBox/Web_Requests/Images/2.png",
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/Web_Requests/Images/3.png",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
     "HackTheBox/Web_Requests/Web_Requests.md",
-    "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
     "TryHackMe/Pre_Security_Path/OSI_Model.md",
     "TryHackMe/Pre_Security_Path/Intro_to_LAN.md",
     "TryHackMe/Pre_Security_Path/Images/1.png",
     "TryHackMe/Pre_Security_Path/Images/24.png",
     "HackTheBox/Web_Requests/Images/1.png",
-    "HackTheBox/Web_Requests/Images/Images.md",
     "HackTheBox/Web_Requests/Images",
     "HackTheBox/Web_Requests",
     "TryHackMe/Pre_Security_Path/Images/10.png",
@@ -228,7 +228,6 @@
     "2024-09-06.md",
     "New Text Document.txt",
     "Tags",
-    "TryHackMe",
-    "Test Folder"
+    "TryHackMe"
   ]
 }
