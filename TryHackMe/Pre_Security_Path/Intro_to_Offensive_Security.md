@@ -20,7 +20,7 @@ We will use a command-line application called "GoBuster" to brute-force FakeBank
 
 I'm just gonna use TryHackMe's virtual machine for this exercise
 
-![Output](Images/1.png)
+![Output](TryHackMe/Pre_Security_Path/Images/1.png)
 
 
 We will be running GoBuster for this simple exercise , so just open the terminal and copy and paste the code in based on the instructions:
