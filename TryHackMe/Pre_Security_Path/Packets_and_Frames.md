@@ -9,6 +9,8 @@ Packets and frames are small pieces of data that, when forming together, make a 
 | Source Address      | The IP address of the device that the packet is being sent **from** so that data knows where to **return to**.                                                          |
 | Destination Address | The device's IP address the packet is being sent to so that data knows where to travel next.                                                                            |
 
+Answers:
+
 What is the name for a piece of data when it **does have** IP addressing information?
 ```
 Packet
@@ -65,6 +67,8 @@ Here's how it looks like.
 Here's how **closing a connection** it looks like.
 ![Output](Images/21.png)
 
+Answers:
+
 What is the header in a TCP packet that ensures the integrity of data?
 ```
 checksum
@@ -76,3 +80,54 @@ SYN,SYN/ACK,ACK
 ```
 
 **Task 3**
+
+Just read through the notes before and figure it out, its not rocket science, just need to click the correct flags, but then again if you're lazy here's the flag:
+![Output](Images/22.png)
+
+```
+THM{TCP_CHATTER}
+```
+
+**Task 4**
+
+The **U**ser **D**atagram **P**rotocol (**UDP**) is another protocol that is used to communicate data between devices.
+Unlike its brother TCP, UDP is a **stateless** protocol that doesn't require a constant connection between the two devices for data to be sent. For example, the Three-way handshake does not occur, nor is there any synchronisation between the two devices.
+
+| **Advantages of UDP**                                                                                           | **Disadvantages of UDP**                                                           |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| UDP is much faster than TCP.                                                                                    | UDP doesn't care if the data is received or not.                                   |
+| UDP leaves the application (user software) to decide if there is any control over how quickly packets are sent. | It is quite flexible to software developers in this sense.                         |
+| UDP does not reserve a continuous connection on a device as TCP does.                                           | This means that unstable connections result in a terrible experience for the user. |
+Here's the headers:
+
+| **Header**          | **Description**                                                                                                                                                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Time to Live (TTL)  | This field sets an expiry timer for the packet, so it doesn't clog up your network if it never manages to reach a host or escape!                                                                                                 |
+| Source Address      | The IP address of the device that the packet is being sent from, so that data knows where to return to.                                                                                                                           |
+| Destination Address | The device's IP address the packet is being sent to so that data knows where to travel next.                                                                                                                                      |
+| Source Port         | This value is the port that is opened by the sender to send the UDP packet from. This value is randomly chosen (out of the ports from 0-65535 that aren't already in use at the time).                                            |
+| Destination Port    | This value is the port number that an application or service is running on the remote host (the one receiving the data); for example, a webserver running on port 80. Unlike the source port, this value is not chosen at random. |
+| Data                | This header is where data, i.e. bytes of a file that is being transmitted, is stored.                                                                                                                                             |
+Here's quick diagram:
+![Output](Images/23.png)
+
+Answers:
+
+What does the term "UDP" stand for?
+```
+User Datagram Protocol
+```
+What type of connection is "UDP"?
+```
+stateless
+```
+What protocol would you use to transfer a file?
+```
+TCP
+```
+What protocol would you use to have a video call?
+```
+UDP
+```
+
+**Task 5**
