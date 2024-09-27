@@ -1,7 +1,7 @@
 ## URL
 
 Resources over HTTP are accessed via a `URL`, which offers many more specifications than simply specifying a website we want to visit. Let's look at the structure of a URL:
-![Output](HackTheBox/Images/1.png)
+![Output](Images/1.png)
 
 | **Component**  | **Example**          | **Description**                                                                                                                                                                       |
 | -------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
