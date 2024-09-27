@@ -93,6 +93,7 @@ ransomware
 ```
 
 **Task 3**
+
 Instructions:
 You are part of a _Security Operations Center_ (SOC) responsible for protecting a bank. This bank’s SOC uses a _Security Information and Event Management_ (SIEM) system. A SIEM gathers security-related information and events from various sources and presents them via one system. For instance, you would be notified if there is a failed login attempt or a login attempt from an unexpected geographic location. Moreover, with the advent of machine learning, a SIEM might detect unusual behavior, such as a user logging in at 3 AM when he usually logs in only during work hours.  
 
