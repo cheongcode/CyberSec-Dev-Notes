@@ -1,16 +1,21 @@
 **Task 1**
+
 What is the key term for devices that are connected together?
 Answer:
 ```
 Network
 ```
+
 **Task 2**
+
 Who invented the World Wide Web?
 Answer:
 ```
 Tim Berners-Lee
 ```
+
 **Task 3**
+
 Devices have the same thing: two means of identification, with one being permeable. These are:
 
 - An IP Address
@@ -50,25 +55,32 @@ Pretty self explanatory, just change Bob's Mac Address to Alice and spam the Req
 ```
 THM{YOU_GOT_ON_TRYHACKME}
 ```
+
 **Task 4**
+
 Ping is one of the most fundamental network tools available to us. Ping uses **ICMP** (**I**nternet **C**ontrol **M**essage **P**rotocol) packets to determine the performance of a connection between devices, for example, if the connection exists or is reliable.
 Here we are pinging a device that has the private address of _192.168.1.254_. Ping informs us that we have sent six ICMP packets, all of which were received with an average time of 4.16 milliseconds.
 Now you are going to do the same thing to ping the address of "**8.8.8.8**" on the deployable website in this task. Pinging the correct address will reveal a flag to answer the following question below.
 
 What protocol does ping use?
+
 Answer:
 ```
 ICMP
 ```
 What is the syntax to ping 10.10.10.10?
+
 Answer:
+
 ```
 ping 10.10.10.10
 ```
 What flag do you get when you ping 8.8.8.8?
 ![Output](Images/12.png)
 I mean just put 8.8.8.8 and click Send Ping Request
+
 Answer:
+
 ```
 THM{I_PINGED_THE_SERVER}
 ```
