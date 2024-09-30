@@ -88,4 +88,19 @@ Layer2,Layer3
 ```
 
 **Task 6**
-![[Pasted image 20241001004326.png]]
+I'm not even kidding, there's actually not much to do for this, you literally just click Send Packet and let it rip, anyways as usual here are the answers:
+
+![Output](Images/28.png)
+
+Answers:
+
+What is the flag from the network simulator?
+```
+THM{YOU'VE_GOT_DATA}
+```
+How many HANDSHAKE entries are there in the Network Log?
+```
+5
+```
+
+And that's the end of the Network Fundamentals.
