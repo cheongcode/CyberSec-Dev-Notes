@@ -44,8 +44,48 @@ Quick guide, as the instructions suggest, see the red balls ? yea they bad ... c
 ![Output](Images/26.png)![Output](Images/27.png)
 
 Honestly nothing much in this particular practical. So here's the flag if you're lazy:
+
 Answers:
 ```
 THM{FIREWALLS_RULE}
 ```
 
+**Task 4**
+
+A **V**irtual **P**rivate **N**etwork (or **VPN** for short) is a technology that allows devices on separate networks to communicate securely by creating a dedicated path between each other over the Internet (known as a tunnel). Devices connected within this tunnel form their own private network.
+
+| **Benefit**                                                          | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Allows networks in different geographical locations to be connected. | For example, a business with multiple offices will find VPNs beneficial, as it means that resources like servers/infrastructure can be accessed from another office.                                                                                                                                                                                                                                                                                                          |
+| Offers privacy.                                                      | VPN technology uses encryption to protect data. This means that it can only be understood between the devices it was being sent from and is destined for, meaning the data isn't vulnerable to sniffing.<br><br>This encryption is useful in places with public WiFi, where no encryption is provided by the network. You can use a VPN to protect your traffic from being viewed by other people.                                                                            |
+| Offers anonymity.                                                    | Journalists and activists depend upon VPNs to safely report on global issues in countries where freedom of speech is controlled.<br><br>Usually, your traffic can be viewed by your ISP and other intermediaries and, therefore, tracked. <br><br>The level of anonymity a VPN provides is only as much as how other devices on the network respect privacy. For example, a VPN that logs all of your data/history is essentially the same as not using a VPN in this regard. |
+| **VPN Technology**                                                   | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| PPP                                                                  | This technology is used by PPTP (explained below) to allow for authentication and provide encryption of data. VPNs work by using a private key and public certificate (similar to **SSH**). A private key & certificate must match for you to connect.<br><br>This technology is not capable of leaving a network by itself (non-routable).                                                                                                                                   |
+| PPTP                                                                 | The **P**oint-to-**P**oint **T**unneling **P**rotocol (**PPTP**) is the technology that allows the data from PPP to travel and leave a network. <br><br>PPTP is very easy to set up and is supported by most devices. It is, however, weakly encrypted in comparison to alternatives.                                                                                                                                                                                         |
+| IPSec                                                                | Internet Protocol Security (IPsec) encrypts data using the existing **I**nternet **P**rotocol (**IP**) framework.<br><br>IPSec is difficult to set up in comparison to alternatives; however, if successful, it boasts strong encryption and is also supported on many devices.                                                                                                                                                                                               |
+Answers:
+
+What VPN technology **only** encrypts & provides the authentication of data?
+```
+PPP
+```
+What VPN technology uses the IP framework?
+```
+IPSec
+```
+
+**Task 5**
+I'm pretty sure I had some notes on what is a router and what is a switch already so I won't go through it so here's the answers:
+
+Answers:
+What is the verb for the action that a router does?
+```
+routing
+```
+What are the two different layers of switches? Separate these by a comma I.e.: LayerX,LayerY
+```
+Layer2,Layer3
+```
+
+**Task 6**
+![[Pasted image 20241001004326.png]]
