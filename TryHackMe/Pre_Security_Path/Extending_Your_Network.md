@@ -27,13 +27,18 @@ Answers:
 
 What layers of the OSI model do firewalls operate at?
 ```
-router
+Layer 3, Layer 4
 ```
 What category of firewall inspects the **entire connection**?
 ```
-router
+stateful
 ```
 What category of firewall inspects individual packets?
 ```
-router
+stateless
 ```
+
+**Task 3**
+
+
+![[Pasted image 20241001002002.png]]![[Pasted image 20241001002007.png]]
