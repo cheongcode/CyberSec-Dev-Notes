@@ -40,5 +40,12 @@ stateless
 
 **Task 3**
 
+Quick guide, as the instructions suggest, see the red balls ? yea they bad ... click the drop down select the IP, click port 80, and add the rule.
+![Output](Images/26.png)![Output](Images/27.png)
 
-![[Pasted image 20241001002002.png]]![[Pasted image 20241001002007.png]]
+Honestly nothing much in this particular practical. So here's the flag if you're lazy:
+Answers:
+```
+THM{FIREWALLS_RULE}
+```
+
