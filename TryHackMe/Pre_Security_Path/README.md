@@ -1,15 +1,55 @@
-# Pre-Security Path Notes
+# **Pre-Security Path Notes**
 
-This repository contains my notes and resources as I redo the entire **TryHackMe Pre-Security Path**. Below is a quick guide and chart that links directly to each of the modules I've covered. You can easily navigate to the respective markdown files by clicking the links.
+Welcome to the **TryHackMe Pre-Security Path** notes and resources repository. Below is a structured guide to the modules, organized into relevant groups for easy navigation. Simply click on the links to access the markdown files for each module.
 
-## Quick Guide
+---
 
-| Module Name                     | Description                                                                                       | Link                                                          |
-| ------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **What is Networking?**         | Learn the basics of computer networking, including types of networks and how devices communicate. | [What is Networking](What_is_Networking.md)                   |
-| **Intro to LAN**                | Overview of Local Area Networks (LAN) and how they operate.                                       | [Intro to LAN](Intro_to_LAN.md)                               |
-| **OSI Model**                   | Detailed breakdown of the OSI Model and its role in networking.                                   | [OSI Model](OSI_Model.md)                                     |
-| **Packets and Frames**          | Learn how data is split into smaller units and transmitted across a network.                      | [Packets and Frames](Packets_and_Frames.md)                   |
-| **Extending Your Network**      | Discover methods to extend networks using routers, switches, and other network devices.           | [Extending Your Network](Extending_Your_Network.md)           |
-| **Intro to Offensive Security** | Basic concepts of offensive security, focusing on hacking techniques and tools.                   | [Intro to Offensive Security](Intro_to_Offensive_Security.md) |
-| **Intro to Defensive Security** | Covers defensive measures and security strategies to protect against cyber threats.               | [Intro to Defensive Security](Intro_to_Defensive_Security.md) |
+## **1. Introduction to Cyber Security**
+
+|**Module**|**Description**|**Link**|
+|---|---|---|
+|**Intro to Offensive Security**|Introduction to offensive security concepts, tools, and techniques used in ethical hacking.|[Intro to Offensive Security](Intro_to_Offensive_Security.md)|
+|**Intro to Defensive Security**|Overview of defensive strategies to protect systems from cyber threats.|[Intro to Defensive Security](Intro_to_Defensive_Security.md)|
+
+---
+
+## **2. Network Fundamentals**
+
+|**Module**|**Description**|**Link**|
+|---|---|---|
+|**What is Networking?**|Understand the basics of networking, including communication between devices and types of networks.|[What is Networking?](What_is_Networking.md)|
+|**Intro to LAN**|Learn about Local Area Networks (LAN) and how they are set up and operate.|[Intro to LAN](Intro_to_LAN.md)|
+|**OSI Model**|A comprehensive breakdown of the OSI Model and its importance in networking.|[OSI Model](OSI_Model.md)|
+|**Packets and Frames**|Learn about how data is split into packets and frames for transmission across networks.|[Packets and Frames](Packets_and_Frames.md)|
+|**Extending Your Network**|Explore methods to extend your network using switches, routers, and other devices.|[Extending Your Network](Extending_Your_Network.md)|
+
+---
+
+## **3. How The Web Works**
+
+|**Module**|**Description**|**Link**|
+|---|---|---|
+|**How The Web Works**|Understand the basic structure of the World Wide Web and how it functions behind the scenes.|_File for this section is not yet uploaded_|
+
+---
+
+## **4. Linux Fundamentals**
+
+|**Module**|**Description**|**Link**|
+|---|---|---|
+|**Linux Fundamentals**|Introduction to Linux, covering command-line navigation, file systems, and basic system administration.|_File for this section is not yet uploaded_|
+
+---
+
+## **5. Windows Fundamentals**
+
+|**Module**|**Description**|**Link**|
+|---|---|---|
+|**Windows Fundamentals**|Learn about the Windows operating system, focusing on security features, command-line, and administration.|_File for this section is not yet uploaded_|
+
+---
+
+## **Notes**
+
+- This repository follows the **TryHackMe Pre-Security Path** layout for easy access and progression.
+- Please update the links and placeholders when new files are added or when specific sections are completed.
