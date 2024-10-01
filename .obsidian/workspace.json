@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "right": {
     "id": "80ae6c8730a22f04",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md"
+                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md"
               }
             }
           },
@@ -186,8 +186,8 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
-    "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
+    "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/Images/36.png",
     "TryHackMe/Pre_Security_Path/Images/44.png",
     "TryHackMe/Pre_Security_Path/Images/43.png",
