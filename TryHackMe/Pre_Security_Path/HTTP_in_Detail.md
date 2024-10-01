@@ -186,3 +186,12 @@ Make a GET request to /room
 ![[Pasted image 20241001204914.png]]
 ![[Pasted image 20241001204930.png]]
 
+Answers:
+
+```
+THM{YOU_FOUND_THE_BLOG}
+```
+
+Make a DELETE request to /user/1
+
+![[Pasted image 20241001210400.png]]
