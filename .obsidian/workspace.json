@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md"
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md"
               }
             }
           },
@@ -187,19 +187,21 @@
   },
   "active": "2da0f022b879b389",
   "lastOpenFiles": [
+    "Pasted image 20241001162152.png",
+    "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
+    "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
+    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/Web_Requests/Images/Images.md",
     "HackTheBox/Web_Requests/Web_Requests.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "TryHackMe/Pre_Security_Path/README.md",
     "TryHackMe/Pre_Security_Path/What_is_Networking.md",
-    "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
     "TryHackMe/Pre_Security_Path/Images/28.png",
     "TryHackMe/Pre_Security_Path/Images/27.png",
     "TryHackMe/Pre_Security_Path/Images/26.png",
     "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
     "TryHackMe/Pre_Security_Path/Images/25.png",
     "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/Web_Requests/Images/4.png",
     "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
     "HackTheBox/Web_Requests/Cheatsheets/Cheatsheets.md",
