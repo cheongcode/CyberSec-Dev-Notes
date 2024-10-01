@@ -171,9 +171,15 @@ Set-Cookie
 
 Honestly everything here is pretty straight forward, so I won't go through.
 
-Answers:
-
 Make a GET request to /room
 
 ![[Pasted image 20241001202729.png]]
+
+Answers:
+
+```
+THM{YOU'RE_IN_THE_ROOM}
+```
+
+Make a GET request to /room
 
