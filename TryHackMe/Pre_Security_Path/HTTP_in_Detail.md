@@ -33,3 +33,39 @@ What response header tells the browser how much data to expect?
 Content-Length
 ```
 
+**Task 3**
+
+**GET Request**
+
+This is used for getting information from a web server.  
+
+**POST Request**
+
+This is used for submitting data to the web server and potentially creating new records  
+
+**PUT Request**
+
+This is used for submitting data to a web server to update information
+
+**DELETE Request**  
+
+This is used for deleting information/records from a web server.
+
+Answers:
+
+What method would be used to create a new user account?
+```
+POST
+```
+What method would be used to update your email address?
+```
+PUT
+```
+What method would be used to remove a picture you've uploaded to your account?
+```
+DELETE
+```
+What method would be used to view a news article?
+```
+GET
+```
