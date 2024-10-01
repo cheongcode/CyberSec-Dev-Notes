@@ -98,7 +98,7 @@ authoritative
 
 What is the CNAME of shop.website.thm?
 
-![[Pasted image 20241001172546.png]]
+![Output](Images/31.png)
 
 Adjust the DNS Type to CNAME and put shop as the subdomain before sending the DNS Request
 
@@ -110,7 +110,7 @@ shops.myshopify.com
 
 What is the value of the TXT record of website.thm?
 
-![[Pasted image 20241001172821.png]]
+![[32.png]]
 
 It's pretty much the same pattern but I would say it would be more useful if you typed the commands out yourself.
 
@@ -120,11 +120,11 @@ Answers:
 THM{7012BBA60997F35A9516C2E16D2944FF}
 ```
 
-![[Pasted image 20241001172940.png]]
+![[33.png]]
 
 What is the numerical priority value for the MX record?
 
-![[Pasted image 20241001173017.png]]
+![[34.png]]
 
 Answers:
 
@@ -134,7 +134,7 @@ Answers:
 
 What is the IP address for the A record of www.website.thm?
 
-![[Pasted image 20241001174118.png]]
+![[35.png]]
 
 Answers:
 

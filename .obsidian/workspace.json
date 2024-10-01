@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be52590d6730bbb1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "TryHackMe/Pre_Security_Path/Images/31.png"
+              }
+            }
           }
         ]
       }
@@ -176,25 +186,24 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
-    "Pasted image 20241001174118.png",
-    "Pasted image 20241001173017.png",
-    "Pasted image 20241001172940.png",
-    "Pasted image 20241001172821.png",
-    "Pasted image 20241001172546.png",
+    "34.png",
+    "33.png",
+    "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
+    "TryHackMe/Pre_Security_Path/Images/31.png",
+    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+    "35.png",
+    "32.png",
     "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
     "TryHackMe/Pre_Security_Path/README.md",
-    "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/Images/30.png",
     "TryHackMe/Pre_Security_Path/Images/10.png",
     "TryHackMe/Pre_Security_Path/Images/29.png",
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/Web_Requests/Images/Images.md",
     "HackTheBox/Web_Requests/Web_Requests.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "TryHackMe/Pre_Security_Path/What_is_Networking.md",
     "TryHackMe/Pre_Security_Path/Images/28.png",
     "TryHackMe/Pre_Security_Path/Images/27.png",
-    "TryHackMe/Pre_Security_Path/Images/26.png",
     "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Defensive_Security.md",
     "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
