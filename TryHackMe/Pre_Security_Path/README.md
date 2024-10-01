@@ -27,9 +27,9 @@ Welcome to the **TryHackMe Pre-Security Path** notes and resources repository. B
 
 ## **3. How The Web Works**
 
-|**Module**|**Description**|**Link**|
-|---|---|---|
-|**How The Web Works**|Understand the basic structure of the World Wide Web and how it functions behind the scenes.|_File for this section is not yet uploaded_|
+| **Module**        | **Description**                                                    | **Link** |
+| ----------------- | ------------------------------------------------------------------ | -------- |
+| **DNS in detail** | Learn how DNS works and how it helps you access internet services. |          |
 
 ---
 
