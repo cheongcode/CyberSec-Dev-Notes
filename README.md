@@ -9,3 +9,4 @@ Welcome to **CyberSec-Dev-Notes**, a personal knowledge base documenting my jour
 - **Learning Progress**: Screenshots, code snippets, and resources captured along the way to track my growth and skills development.
 
 This repository is continuously updated to reflect my progress and learning in the fields of cybersecurity and software development. Feel free to explore and follow along!
+<script src="https://tryhackme.com/badge/520097"></script>
