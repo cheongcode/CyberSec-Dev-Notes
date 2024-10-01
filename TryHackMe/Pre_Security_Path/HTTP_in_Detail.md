@@ -183,3 +183,6 @@ THM{YOU'RE_IN_THE_ROOM}
 
 Make a GET request to /room
 
+![[Pasted image 20241001204914.png]]
+![[Pasted image 20241001204930.png]]
+
