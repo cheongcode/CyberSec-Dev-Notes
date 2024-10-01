@@ -202,5 +202,24 @@ Answers:
 THM{USER_IS_DELETED}
 ```
 
+Make a PUT request to /user/2 with the username parameter set to admin
+
+Answers:
+
+```
+THM{USER_HAS_UPDATED}
+```
+
 ![[Pasted image 20241001211405.png]]
 ![[Pasted image 20241001211420.png]]
+
+POST the username of thm and a password of letmein to /login
+
+Answers:
+
+```
+THM{HTTP_REQUEST_MASTER}
+```
+
+![[Pasted image 20241001220341.png]]
+![[Pasted image 20241001220403.png]]
