@@ -125,3 +125,19 @@ THM{7012BBA60997F35A9516C2E16D2944FF}
 What is the numerical priority value for the MX record?
 
 ![[Pasted image 20241001173017.png]]
+
+Answers:
+
+```
+30
+```
+
+What is the IP address for the A record of www.website.thm?
+
+![[Pasted image 20241001174118.png]]
+
+Answers:
+
+```
+10.10.10.10
+```
