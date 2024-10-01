@@ -3,6 +3,7 @@
 I'm not gonna go through what HTTP means so let's just straight away go for the answers:
 
 Answers:
+
 What does HTTP stand for?
 ```
 HyperText Transfer Protocol
@@ -12,6 +13,23 @@ What does the S in HTTPS stand for?
 secure
 ```
 On the mock webpage on the right there is an issue, once you've found it, click on it. What is the challenge flag?
+
+just click the lock...
+
 ```
 THM{INVALID_HTTP_CERT}
 ```
+
+**Task 2**
+
+nope, not going through this either
+
+What HTTP protocol is being used in the above example?
+```
+HTTP/1.1
+```
+What response header tells the browser how much data to expect?
+```
+Content-Length
+```
+
