@@ -94,3 +94,34 @@ What type of server holds all the records for a domain?
 authoritative
 ```
 
+**Task 5**
+
+What is the CNAME of shop.website.thm?
+
+![[Pasted image 20241001172546.png]]
+
+Adjust the DNS Type to CNAME and put shop as the subdomain before sending the DNS Request
+
+Answers:
+
+```
+shops.myshopify.com
+```
+
+What is the value of the TXT record of website.thm?
+
+![[Pasted image 20241001172821.png]]
+
+It's pretty much the same pattern but I would say it would be more useful if you typed the commands out yourself.
+
+Answers:
+
+```
+THM{7012BBA60997F35A9516C2E16D2944FF}
+```
+
+![[Pasted image 20241001172940.png]]
+
+What is the numerical priority value for the MX record?
+
+![[Pasted image 20241001173017.png]]
