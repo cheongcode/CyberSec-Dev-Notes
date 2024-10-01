@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/README.md",
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/README.md",
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/README.md",
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/README.md"
+                "file": "TryHackMe/Pre_Security_Path/DNS_in_detail.md"
               }
             }
           },
@@ -186,13 +186,13 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
+    "TryHackMe/Pre_Security_Path/README.md",
+    "TryHackMe/Pre_Security_Path/Images/31.png",
     "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
-    "TryHackMe/Pre_Security_Path/README.md",
     "TryHackMe/Pre_Security_Path/Images/35.png",
     "TryHackMe/Pre_Security_Path/Images/34.png",
     "TryHackMe/Pre_Security_Path/Images/33.png",
-    "TryHackMe/Pre_Security_Path/Images/31.png",
     "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "TryHackMe/Pre_Security_Path/Images/32.png",
     "TryHackMe/Pre_Security_Path/Images/30.png",
