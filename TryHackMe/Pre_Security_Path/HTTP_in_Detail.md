@@ -97,6 +97,7 @@ In the previous task, you learnt that when a HTTP server responds, the first l
 | **500 - Internal Service Error** | The server has encountered some kind of error with your request that it doesn't know how to handle properly.                                                                                                                  |
 | **503 - Service Unavailable**    | This server cannot handle your request as it's either overloaded or down for maintenance.                                                                                                                                     |
 Answers:
+
 What response code might you receive if you've created a new user or blog post article?
 ```
 201
@@ -142,6 +143,8 @@ These are the headers that are returned to the client from the server after a re
 
 **Content-Encoding:** What method has been used to compress the data to make it smaller when sending it over the internet.
 
+Answers:
+
 What header tells the web server what browser is being used?
 ```
 User-Agent
@@ -157,9 +160,20 @@ Host
 
 **Task 6**
 
+Answers:
+
 Which header is used to save cookies to your computer?
 ```
 Set-Cookie
 ```
 
 **Task 7**
+
+Honestly everything here is pretty straight forward, so I won't go through.
+
+Answers:
+
+Make a GET request to /room
+
+![[Pasted image 20241001202729.png]]
+
