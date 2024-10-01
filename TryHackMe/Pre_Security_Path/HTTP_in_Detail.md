@@ -195,3 +195,12 @@ THM{YOU_FOUND_THE_BLOG}
 Make a DELETE request to /user/1
 
 ![[Pasted image 20241001210400.png]]
+
+Answers:
+
+```
+THM{USER_IS_DELETED}
+```
+
+![[Pasted image 20241001211405.png]]
+![[Pasted image 20241001211420.png]]
