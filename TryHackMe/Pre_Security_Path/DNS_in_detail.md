@@ -110,7 +110,7 @@ shops.myshopify.com
 
 What is the value of the TXT record of website.thm?
 
-![[32.png]]
+![Output](Images/32.png)
 
 It's pretty much the same pattern but I would say it would be more useful if you typed the commands out yourself.
 
@@ -120,11 +120,11 @@ Answers:
 THM{7012BBA60997F35A9516C2E16D2944FF}
 ```
 
-![[33.png]]
+![Output](Images/33.png)
 
 What is the numerical priority value for the MX record?
 
-![[34.png]]
+![Output](Images/34.png)
 
 Answers:
 
@@ -134,7 +134,7 @@ Answers:
 
 What is the IP address for the A record of www.website.thm?
 
-![[35.png]]
+![Output](Images/35.png)
 
 Answers:
 
