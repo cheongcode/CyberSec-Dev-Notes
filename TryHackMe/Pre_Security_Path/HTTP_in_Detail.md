@@ -173,7 +173,7 @@ Honestly everything here is pretty straight forward, so I won't go through.
 
 Make a GET request to /room
 
-![[Pasted image 20241001202729.png]]
+![Output](Images/36.png)
 
 Answers:
 
@@ -183,8 +183,8 @@ THM{YOU'RE_IN_THE_ROOM}
 
 Make a GET request to /room
 
-![[Pasted image 20241001204914.png]]
-![[Pasted image 20241001204930.png]]
+![Output](Images/37.png)
+![Output](Images/38.png)
 
 Answers:
 
@@ -194,7 +194,7 @@ THM{YOU_FOUND_THE_BLOG}
 
 Make a DELETE request to /user/1
 
-![[Pasted image 20241001210400.png]]
+![Output](Images/39.png)
 
 Answers:
 
@@ -210,10 +210,12 @@ Answers:
 THM{USER_HAS_UPDATED}
 ```
 
-![[Pasted image 20241001211405.png]]
-![[Pasted image 20241001211420.png]]
+![Output](Images/40.png)
+![Output](Images/41.png)
 
 POST the username of thm and a password of letmein to /login
+![Output](Images/43.png)
+![Output](Images/44.png)
 
 Answers:
 
@@ -221,5 +223,4 @@ Answers:
 THM{HTTP_REQUEST_MASTER}
 ```
 
-![[Pasted image 20241001220341.png]]
-![[Pasted image 20241001220403.png]]
+
