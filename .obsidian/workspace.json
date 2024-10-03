@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
+                "file": "HackTheBox/Web_Requests/HTTP Headers.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "be52590d6730bbb1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "TryHackMe/Pre_Security_Path/Images/31.png"
               }
             }
           }
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
+                "file": "HackTheBox/Web_Requests/HTTP Headers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
+                "file": "HackTheBox/Web_Requests/HTTP Headers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Web_Requests/HTTP Requests and Responses.md"
+                "file": "HackTheBox/Web_Requests/HTTP Headers.md"
               }
             }
           },
@@ -186,21 +176,22 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
-    "Pasted image 20241003160753.png",
-    "Pasted image 20241003160651.png",
     "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
+    "HackTheBox/Web_Requests/HTTP Headers.md",
+    "HackTheBox/Untitled.md",
     "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
-    "7.png",
-    "6.png",
-    "5.png",
+    "HackTheBox/Web_Requests/Images/8.png",
+    "HackTheBox/Web_Requests/Images/7.png",
+    "HackTheBox/Web_Requests/Images/6.png",
+    "HackTheBox/Web_Requests/Images/5.png",
+    "TryHackMe/Pre_Security_Path/Images/31.png",
+    "Pasted image 20241003160651.png",
     "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
     "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/Images/36.png",
     "TryHackMe/Pre_Security_Path/Images/44.png",
     "TryHackMe/Pre_Security_Path/Images/43.png",
     "TryHackMe/Pre_Security_Path/Images/42.png",
-    "TryHackMe/Pre_Security_Path/Images/41.png",
-    "TryHackMe/Pre_Security_Path/Images/40.png",
     "TryHackMe/Pre_Security_Path/README.md",
     "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
     "HackTheBox/Web_Requests/Images/Images.md",
@@ -228,7 +219,6 @@
     "TryHackMe/Pre_Security_Path",
     "Untitled.md",
     "HackTheBox",
-    "Vault.md",
     "Canvas.canvas",
     "New Text Document.txt",
     "Tags",

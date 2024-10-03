@@ -2,7 +2,7 @@ HTTP communications mainly consist of an HTTP request and an HTTP response. An H
 
 Once the server receives the HTTP request, it processes it and responds by sending the HTTP response, which contains the response code, as discussed in a later section, and may contain the resource data if the requester has access to it.
 
-![[5.png]]
+![Output](Images/5.png)
 The first line of any HTTP request contains three main fields 'separated by spaces':
 
 |**Field**|**Example**|**Description**|
@@ -17,7 +17,7 @@ The next set of lines contain HTTP header value pairs, like `Host`, `User-Agen
 
 Once the server processes our request, it sends its response. The following is an example HTTP response:
 
-![[6.png]]
+![Output](Images/6.png)
 
 The first line of an HTTP response contains two fields separated by spaces. The first being the `HTTP version` (e.g. `HTTP/1.1`), and the second denotes the `HTTP response code` (e.g. `200 OK`).
 
@@ -29,14 +29,26 @@ Finally, the response may end with a response body, which is separated by a new 
 
 In our earlier examples with cURL, we only specified the URL and got the response body in return. However, cURL also allows us to preview the full HTTP request and the full HTTP response, which can become very handy when performing web penetration tests or writing exploits. To view the full HTTP request and response, we can simply add the `-v` verbose flag to our earlier commands, and it should print both the request and response:
 https://academy.hackthebox.com/module/35/section/220
-![[7.png]]
+![Output](Images/7.png)
 
 Say less, -v for verbose
 -vvv for more verbose
 
 What is the HTTP method used while intercepting the request? (case-sensitive)
 
-![[Pasted image 20241003160753.png]]
+![Output](Images/8.png)
+
+```
+GET
+```
+
+Send a GET request to the above server, and read the response headers to find the version of Apache running on the server, then submit it as the answer. (answer format: X.Y.ZZ)
+
+```
+2.4.41
+```
+
+I mean, it's already given in the screenshot so...
 
 
 
