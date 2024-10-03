@@ -11,11 +11,9 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "HackTheBox/Web_Requests/GET.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               }
             }
           }
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 449.5
   },
   "right": {
     "id": "80ae6c8730a22f04",
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Web_Requests/GET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Web_Requests/GET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HackTheBox/Web_Requests/GET.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,12 +168,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27025d735896491a",
+  "active": "d054b0698dd922c3",
   "lastOpenFiles": [
+    "Vault.md",
+    "HackTheBox/Web_Requests/GET.md",
     "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
     "HackTheBox/Web_Requests/HTTP Headers.md",
-    "HackTheBox/Web_Requests/GET.md",
     "Pasted image 20241003164049.png",
     "Pasted image 20241003163859.png",
     "Pasted image 20241003163740.png",

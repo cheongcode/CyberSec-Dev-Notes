@@ -44,16 +44,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags",
-    "//TryHackMe/TryHackMe/Pre Security Path",
-    "//TryHackMe/TryHackMe/Pre_Security_Path",
-    "//HackTheBox",
-    "//HackTheBox/HackTheBox/Web_Requests",
-    "//TryHackMe",
-    "//HackTheBox/HackTheBox/Images",
-    "//HackTheBox/HackTheBox/Cheatsheets",
-    "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Cheatsheets"
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
