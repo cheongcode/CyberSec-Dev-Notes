@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 200
   },
   "right": {
     "id": "80ae6c8730a22f04",
@@ -186,8 +186,10 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+    "Pasted image 20241003160753.png",
+    "Pasted image 20241003160651.png",
     "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
+    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "7.png",
     "6.png",
     "5.png",
@@ -199,7 +201,6 @@
     "TryHackMe/Pre_Security_Path/Images/42.png",
     "TryHackMe/Pre_Security_Path/Images/41.png",
     "TryHackMe/Pre_Security_Path/Images/40.png",
-    "TryHackMe/Pre_Security_Path/Images/39.png",
     "TryHackMe/Pre_Security_Path/README.md",
     "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
     "HackTheBox/Web_Requests/Images/Images.md",

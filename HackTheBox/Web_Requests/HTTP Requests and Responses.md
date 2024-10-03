@@ -28,7 +28,16 @@ Finally, the response may end with a response body, which is separated by a new 
 ## cURL
 
 In our earlier examples with cURL, we only specified the URL and got the response body in return. However, cURL also allows us to preview the full HTTP request and the full HTTP response, which can become very handy when performing web penetration tests or writing exploits. To view the full HTTP request and response, we can simply add the `-v` verbose flag to our earlier commands, and it should print both the request and response:
-
+https://academy.hackthebox.com/module/35/section/220
 ![[7.png]]
+
 Say less, -v for verbose
+-vvv for more verbose
+
+What is the HTTP method used while intercepting the request? (case-sensitive)
+
+![[Pasted image 20241003160753.png]]
+
+
+
 
