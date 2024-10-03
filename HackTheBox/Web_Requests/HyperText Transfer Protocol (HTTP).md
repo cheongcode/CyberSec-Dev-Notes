@@ -32,8 +32,9 @@ We can send a basic HTTP request to any URL by using it as an argument for cURL,
 ![Output](Images/3.png)
 
 Wanna figure out more about curl ? Look at the curl cheatsheet in the Cheatsheets folder !![Output](Cheatsheets/curl_commands.pdf)
+Questions:
 
- To get the flag, start the above exercise, then use cURL to download the file returned by '/download.php' in the server shown above.
+*To get the flag, start the above exercise, then use cURL to download the file returned by '/download.php' in the server shown above.*
 
 Step 1: Open the bash (if you can't maybe you probably spawned the wrong instance or perhaps even the wrong OS)
 
@@ -48,7 +49,10 @@ Step 3: ls and cat, if you can't maybe you need an intro to linux, and bam you g
 
 ![Output](Images/4.png)
 
-Here's the flag if you're lazy:
+Here's the flag if you're lazy.
+
+Answers:
+
 ```
 HTB{64$!c_cURL_u$3r}
 ```

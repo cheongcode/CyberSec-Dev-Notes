@@ -52,7 +52,8 @@
     "//HackTheBox/HackTheBox/Web_Requests",
     "//TryHackMe",
     "//HackTheBox/HackTheBox/Images",
-    "//HackTheBox/HackTheBox/Cheatsheets"
+    "//HackTheBox/HackTheBox/Cheatsheets",
+    "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Cheatsheets"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

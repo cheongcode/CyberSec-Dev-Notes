@@ -34,15 +34,21 @@ https://academy.hackthebox.com/module/35/section/220
 Say less, -v for verbose
 -vvv for more verbose
 
-What is the HTTP method used while intercepting the request? (case-sensitive)
+Questions:
+
+*What is the HTTP method used while intercepting the request? (case-sensitive)*
 
 ![Output](Images/8.png)
+
+Answers:
 
 ```
 GET
 ```
 
-Send a GET request to the above server, and read the response headers to find the version of Apache running on the server, then submit it as the answer. (answer format: X.Y.ZZ)
+*Send a GET request to the above server, and read the response headers to find the version of Apache running on the server, then submit it as the answer. (answer format: X.Y.ZZ)*
+
+Answers:
 
 ```
 2.4.41

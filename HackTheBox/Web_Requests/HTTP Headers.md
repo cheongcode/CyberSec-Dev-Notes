@@ -61,4 +61,22 @@ Finally, we have [Security Headers](https://owasp.org/www-project-secure-header
 |`Referrer-Policy`|`Referrer-Policy: origin`|Dictates whether the browser should include the value specified via the `Referer` header or not. It can help in avoiding disclosing sensitive URLs and information while browsing the website.|
 ## cURL##
 
-Basically -v for verbose, -vvv for more verbose and now we have -I to display response headers by sending a HEAD request, -i to display header an
+Basically -v for verbose, -vvv for more verbose and now we have -I to display response headers by sending a HEAD request, -i to display header and response body.
+
+Questions:
+
+*The server above loads the flag after the page is loaded. Use the Network tab in the browser devtools to see what requests are made by the page, and find the request to the flag.*
+
+So after spawning the target and entering it into our Firefox browser we will then right click and Inspect. From here we can see that there's a suspicious file in the Network tab
+
+![Output](Images/9.png)
+
+Just double click and there we go
+
+![Output](Images/10.png)
+
+Answers:
+
+```
+HTB{p493_r3qu3$t$_m0n!t0r}
+```
