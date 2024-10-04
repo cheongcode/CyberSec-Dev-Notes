@@ -11,8 +11,12 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HackTheBox/Web_Requests/GET.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HackTheBox/Web_Requests/GET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HackTheBox/Web_Requests/GET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HackTheBox/Web_Requests/GET.md"
+              }
             }
           },
           {
@@ -166,19 +174,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d054b0698dd922c3",
+  "active": "27025d735896491a",
   "lastOpenFiles": [
+    "HackTheBox/Web_Requests/HTTP Headers.md",
+    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+    "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
     "HackTheBox/Web_Requests/Images/Images.md",
     "HackTheBox/Web_Requests/Cheatsheets/Cheatsheets.md",
     "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
     "HackTheBox/HackTheBox/HackTheBox.md",
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/HackTheBox.md",
     "HackTheBox/Web_Requests/Web_Requests.md",
     "HackTheBox/Web_Requests/Images",
     "HackTheBox/Web_Requests/Cheatsheets",
-    "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
-    "HackTheBox/Web_Requests/HTTP Headers.md",
     "HackTheBox/Web_Requests/Images/9.png",
     "HackTheBox/Web_Requests/Images/8.png",
     "HackTheBox/Web_Requests/Images/6.png",
@@ -197,9 +205,7 @@
     "HackTheBox/HackTheBox",
     "HackTheBox",
     "HackTheBox/Web_Requests/GET.md",
-    "HackTheBox/Web_Requests/HTTP Headers.md",
     "Vault.md",
-    "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
     "HackTheBox/Untitled.md",
     "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/README.md",
