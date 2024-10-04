@@ -1,0 +1,3 @@
+[submodule "HackTheBox"]
+	path = HackTheBox
+	url = https://github.com/cheongcode/HackTheBox-Notes.git
