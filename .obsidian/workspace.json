@@ -11,9 +11,11 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "HackTheBox/HackTheBox"
+                "file": "HackTheBox/HyperText Transfer Protocol (HTTP).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HackTheBox/HyperText Transfer Protocol (HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HackTheBox/HyperText Transfer Protocol (HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HackTheBox/HyperText Transfer Protocol (HTTP).md"
+              }
             }
           },
           {
@@ -170,6 +176,7 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
+    "HackTheBox/HackTheBox.md",
     "HackTheBox/HackTheBox/HackTheBox.md",
     "HackTheBox/Web_Requests/Web_Requests.md",
     "HackTheBox/Web_Requests/Images",
@@ -199,7 +206,6 @@
     "HackTheBox",
     "HackTheBox/GET.md",
     "HackTheBox/HTTP Headers.md",
-    "HackTheBox/HackTheBox.md",
     "Vault.md",
     "HackTheBox/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/HTTP Requests and Responses.md",
