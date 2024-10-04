@@ -11,11 +11,10 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
-                "mode": "source",
-                "source": false
+                "file": "HackTheBox",
+                "staged": false
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,6 +171,7 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
+    "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
     "HackTheBox/HackTheBox/Web_Requests/HTTP Headers.md",
     "HackTheBox/HackTheBox/Web_Requests/Cheatsheets/Cheatsheets.md",
     "HackTheBox/HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
@@ -195,7 +191,6 @@
     "HackTheBox/HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
     "HackTheBox/HackTheBox/Web_Requests/Images",
     "HackTheBox/HackTheBox/Web_Requests/Cheatsheets",
-    "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
     "HackTheBox/HackTheBox/Web_Requests/GET.md",
     "HackTheBox/HackTheBox/Web_Requests",
     "HackTheBox/HackTheBox",
