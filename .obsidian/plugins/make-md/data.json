@@ -48,12 +48,10 @@
     "//HackTheBox",
     "//HackTheBox/HackTheBox/Web_Requests",
     "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Images",
-    "//HackTheBox/HackTheBox/HackTheBox",
     "//HackTheBox/HackTheBox/HackTheBox/HackTheBox/HackTheBox/Web_Requests",
-    "//HackTheBox/HackTheBox/HackTheBox/HackTheBox/HackTheBox/Web_Requests/HackTheBox/HackTheBox/Web_Requests/Images",
-    "//HackTheBox/HackTheBox/HackTheBox/HackTheBox/HackTheBox/Web_Requests/HackTheBox/HackTheBox/Web_Requests/Cheatsheets",
     "//TryHackMe",
-    "//TryHackMe/TryHackMe/Pre_Security_Path"
+    "//TryHackMe/TryHackMe/Pre_Security_Path",
+    "//HackTheBox/HackTheBox/HackTheBox"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
