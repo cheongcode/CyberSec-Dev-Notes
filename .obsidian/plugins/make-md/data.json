@@ -44,7 +44,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//HackTheBox",
+    "//HackTheBox/HackTheBox/Web_Requests",
+    "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Images"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
