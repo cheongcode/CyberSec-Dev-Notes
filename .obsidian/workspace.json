@@ -11,11 +11,9 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
-                "mode": "source",
-                "source": false
+                "path": "HackTheBox/HackTheBox"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,51 +170,50 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
-    "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
-    "HackTheBox/HackTheBox/Web_Requests/HTTP Requests and Responses.md",
-    "HackTheBox/HackTheBox/Web_Requests/HTTP Headers.md",
-    "HackTheBox/HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/HackTheBox/HackTheBox.md",
-    "HackTheBox/HackTheBox/Web_Requests/Cheatsheets/Cheatsheets.md",
-    "HackTheBox/HackTheBox/Web_Requests/Web_Requests.md",
-    "HackTheBox/HackTheBox/Web_Requests/Images/9.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/Images.md",
-    "HackTheBox/HackTheBox/Web_Requests/Images/8.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/6.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/7.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/4.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/5.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/17.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/3.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/2.png",
-    "HackTheBox/HackTheBox/Web_Requests/Images/16.png",
-    "HackTheBox/HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
-    "HackTheBox/HackTheBox/Web_Requests/Images",
-    "HackTheBox/HackTheBox/Web_Requests/Cheatsheets",
-    "HackTheBox/HackTheBox/Web_Requests/GET.md",
-    "HackTheBox/HackTheBox/Web_Requests",
+    "HackTheBox/Web_Requests/Web_Requests.md",
+    "HackTheBox/Web_Requests/Images",
+    "HackTheBox/Web_Requests/Cheatsheets",
+    "HackTheBox/HTTP Requests and Responses.md",
+    "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
+    "HackTheBox/HTTP Headers.md",
+    "HackTheBox/HyperText Transfer Protocol (HTTP).md",
+    "HackTheBox/Cheatsheets/Cheatsheets.md",
+    "HackTheBox/Images/9.png",
+    "HackTheBox/Images/Images.md",
+    "HackTheBox/Images/8.png",
+    "HackTheBox/Images/6.png",
+    "HackTheBox/Images/7.png",
+    "HackTheBox/Images/4.png",
+    "HackTheBox/Images/5.png",
+    "HackTheBox/Images/17.png",
+    "HackTheBox/Images/3.png",
+    "HackTheBox/Images/2.png",
+    "HackTheBox/Images/16.png",
+    "HackTheBox/Cheatsheets/curl_commands.pdf",
+    "HackTheBox/Images",
+    "HackTheBox/Cheatsheets",
+    "HackTheBox/GET.md",
+    "HackTheBox/Web_Requests",
     "HackTheBox/HackTheBox",
     "HackTheBox",
-    "HackTheBox/Web_Requests/GET.md",
-    "HackTheBox/Web_Requests/HTTP Headers.md",
-    "HackTheBox/Web_Requests/Web_Requests.md",
+    "HackTheBox/GET.md",
+    "HackTheBox/HTTP Headers.md",
     "HackTheBox/HackTheBox.md",
     "Vault.md",
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
-    "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
-    "HackTheBox/Web_Requests/Cheatsheets/Cheatsheets.md",
+    "HackTheBox/HyperText Transfer Protocol (HTTP).md",
+    "HackTheBox/HTTP Requests and Responses.md",
+    "HackTheBox/Cheatsheets/Cheatsheets.md",
     "HackTheBox/Untitled.md",
     "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/README.md",
     "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
-    "HackTheBox/Web_Requests/Images/Images.md",
+    "HackTheBox/Images/Images.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
     "TryHackMe/Pre_Security_Path/What_is_Networking.md",
     "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
-    "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
-    "HackTheBox/Web_Requests/Cheatsheets",
-    "HackTheBox/Web_Requests/Images",
-    "HackTheBox/Web_Requests",
+    "HackTheBox/Cheatsheets/curl_commands.pdf",
+    "HackTheBox/Cheatsheets",
     "Canvas.canvas"
   ]
 }
