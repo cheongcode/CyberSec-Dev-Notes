@@ -50,7 +50,7 @@ What does the term "MAC" stand for?
 Media Access Control
 ```
 Deploy the interactive lab using the "View Site" button and spoof your MAC address to access the site.  What is the flag?
-![Output](Images/11.png)
+![Output](TryHackMe/Pre_Security_Path/Images/11.png)
 Pretty self explanatory, just change Bob's Mac Address to Alice and spam the Request Site button and bam!
 ```
 THM{YOU_GOT_ON_TRYHACKME}
@@ -76,7 +76,7 @@ Answer:
 ping 10.10.10.10
 ```
 What flag do you get when you ping 8.8.8.8?
-![Output](Images/12.png)
+![Output](TryHackMe/Pre_Security_Path/Images/12.png)
 I mean just put 8.8.8.8 and click Send Ping Request
 
 Answer:

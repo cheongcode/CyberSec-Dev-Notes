@@ -47,11 +47,12 @@
     "/",
     "//HackTheBox",
     "//HackTheBox/HackTheBox/Web_Requests",
-    "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Images",
     "//HackTheBox/HackTheBox/HackTheBox/HackTheBox/HackTheBox/Web_Requests",
     "//TryHackMe",
     "//TryHackMe/TryHackMe/Pre_Security_Path",
-    "//HackTheBox/HackTheBox/HackTheBox"
+    "//HackTheBox/HackTheBox/HackTheBox",
+    "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Cheatsheets",
+    "//HackTheBox/HackTheBox/Cheatsheets"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
