@@ -21,11 +21,9 @@
             "id": "4a9a4f6e9f19daad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241006050709.png"
               }
             }
           }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
+                "file": "Pasted image 20241006050709.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
+                "file": "Pasted image 20241006050709.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Pre_Security_Path/Putting_it_all_together.md"
+                "file": "Pasted image 20241006050709.png"
               }
             }
           },
@@ -187,11 +185,13 @@
   },
   "active": "d054b0698dd922c3",
   "lastOpenFiles": [
+    "Pasted image 202410060507091.png",
+    "//Pasted image 202410060507091.png",
+    "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
     "Pasted image 20241006050800.png",
     "Pasted image 20241006050739.png",
     "Pasted image 20241006050709.png",
     "TryHackMe/Pre_Security_Path/How_Websites_Work.md",
-    "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
     "Pasted image 20241006045638.png",
     "TryHackMe/Pre_Security_Path/Images/49.png",
     "TryHackMe/Pre_Security_Path/Images/48.png",
@@ -199,7 +199,6 @@
     "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
     "TryHackMe/Pre_Security_Path/Images/45.png",
     "TryHackMe/Pre_Security_Path/Images/46.png",
-    "Pasted image 20241006043949.png",
     "HackTheBox/Web_Requests/GET.md",
     "HackTheBox/Web_Requests/HTTP Headers.md",
     "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
@@ -211,7 +210,6 @@
     "HackTheBox/Web_Requests/Web_Requests.md",
     "HackTheBox/Web_Requests/Images",
     "HackTheBox/Web_Requests/Cheatsheets",
-    "HackTheBox/Web_Requests/Images/9.png",
     "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
     "HackTheBox/Web_Requests/Images",
     "HackTheBox/Web_Requests/Cheatsheets",
