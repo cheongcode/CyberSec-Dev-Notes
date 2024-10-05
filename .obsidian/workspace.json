@@ -11,15 +11,26 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "TryHackMe/Pre_Security_Path/Images/46.png"
+              }
+            }
+          },
+          {
+            "id": "4a9a4f6e9f19daad",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Web_Requests/GET.md",
+                "file": "TryHackMe/Pre_Security_Path/How Websites Work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Web_Requests/GET.md",
+                "file": "TryHackMe/Pre_Security_Path/How Websites Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/Web_Requests/GET.md",
+                "file": "TryHackMe/Pre_Security_Path/How Websites Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/Web_Requests/GET.md"
+                "file": "TryHackMe/Pre_Security_Path/How Websites Work.md"
               }
             }
           },
@@ -174,14 +185,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27025d735896491a",
+  "active": "4a9a4f6e9f19daad",
   "lastOpenFiles": [
+    "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
+    "TryHackMe/Pre_Security_Path/How Websites Work.md",
+    "TryHackMe/Pre_Security_Path/Images/45.png",
+    "TryHackMe/Pre_Security_Path/Images/46.png",
+    "Pasted image 20241006043949.png",
+    "HackTheBox/Web_Requests/GET.md",
     "HackTheBox/Web_Requests/HTTP Headers.md",
     "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "HackTheBox/Web_Requests/HTTP Requests and Responses.md",
     "HackTheBox/Web_Requests/Images/Images.md",
     "HackTheBox/Web_Requests/Cheatsheets/Cheatsheets.md",
-    "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
     "HackTheBox/HackTheBox/HackTheBox.md",
     "HackTheBox/HackTheBox.md",
     "HackTheBox/Web_Requests/Web_Requests.md",
@@ -194,17 +210,12 @@
     "HackTheBox/Web_Requests/Images/4.png",
     "HackTheBox/Web_Requests/Images/5.png",
     "HackTheBox/Web_Requests/Images/17.png",
-    "HackTheBox/Web_Requests/Images/3.png",
-    "HackTheBox/Web_Requests/Images/2.png",
-    "HackTheBox/Web_Requests/Images/16.png",
     "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
     "HackTheBox/Web_Requests/Images",
     "HackTheBox/Web_Requests/Cheatsheets",
-    "HackTheBox/Web_Requests/GET.md",
     "HackTheBox/Web_Requests",
     "HackTheBox/HackTheBox",
     "HackTheBox",
-    "HackTheBox/Web_Requests/GET.md",
     "Vault.md",
     "HackTheBox/Untitled.md",
     "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
