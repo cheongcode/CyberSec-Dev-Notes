@@ -90,9 +90,7 @@ Nay
 
 Basically a quiz for you to line everything up to get a flag.
 
-![[Pasted image 20241006050709.png]]
-
-![[Pasted image 20241006050800.png]]
+![[51.png]]
 
 ```
 THM{YOU_GOT_THE_ORDER}
