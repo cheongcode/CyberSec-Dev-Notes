@@ -95,3 +95,18 @@ Input sanitisation is very important in keeping a website secure, as information
 
 When a user has control of how their input is displayed, they can submit HTML (or JavaScript) code, and the browser will use it on the page, allowing the user to control the page's appearance and functionality.
 
+Questions:
+
+View the website on this task and inject HTML so that a malicious link to http://hacker.com is shown.
+
+![Output](Images/49.png)
+
+don't need to be a html god to do this, just google how to link websites html and it should be the first site
+
+Answers:
+
+```
+HTML_INJ3CTI0N
+```
+
+
