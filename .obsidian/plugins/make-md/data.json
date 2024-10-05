@@ -53,8 +53,7 @@
     "//HackTheBox/HackTheBox/HackTheBox",
     "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Cheatsheets",
     "//HackTheBox/HackTheBox/Cheatsheets",
-    "//Tags",
-    "//TryHackMe/TryHackMe/Pre_Security_Path/TryHackMe/Pre_Security_Path/Images"
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
