@@ -54,7 +54,8 @@
     "//HackTheBox/HackTheBox/Cheatsheets",
     "//Tags",
     "//TryHackMe/TryHackMe/Pre_Security_Path/TryHackMe/Pre_Security_Path/Images",
-    "//TryHackMe/TryHackMe/Other Rooms"
+    "//TryHackMe/TryHackMe/Other Rooms",
+    "//TryHackMe/TryHackMe/Other_Rooms"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Other Rooms/Untitled.md",
+                "file": "TryHackMe/Other_Rooms/Brains.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Other Rooms/Untitled.md",
+                "file": "TryHackMe/Other_Rooms/Brains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Other Rooms/Untitled.md",
+                "file": "TryHackMe/Other_Rooms/Brains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Other Rooms/Untitled.md"
+                "file": "TryHackMe/Other_Rooms/Brains.md"
               }
             }
           },
@@ -176,9 +176,9 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
-    "TryHackMe/Other Rooms/Untitled.md",
-    "TryHackMe/Other Rooms/Other Rooms.md",
-    "TryHackMe/Other Rooms",
+    "TryHackMe/Other_Rooms/Other_Rooms.md",
+    "TryHackMe/Other_Rooms/Brains.md",
+    "TryHackMe/Other_Rooms",
     "TryHackMe/Untitled.md",
     "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
     "//Pasted image 202410060507091.png",
