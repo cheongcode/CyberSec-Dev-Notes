@@ -11,9 +11,11 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "TryHackMe/Pre_Security_Path"
+                "file": "TryHackMe/Other Rooms/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TryHackMe/Other Rooms/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TryHackMe/Other Rooms/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TryHackMe/Other Rooms/Untitled.md"
+              }
             }
           },
           {
@@ -170,6 +176,9 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
+    "TryHackMe/Other Rooms/Untitled.md",
+    "TryHackMe/Other Rooms/Other Rooms.md",
+    "TryHackMe/Other Rooms",
     "TryHackMe/Untitled.md",
     "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
     "//Pasted image 202410060507091.png",
@@ -211,7 +220,6 @@
     "TryHackMe/Pre_Security_Path/What_is_Networking.md",
     "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
     "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
-    "HackTheBox/Web_Requests/Cheatsheets",
     "Canvas.canvas"
   ]
 }
