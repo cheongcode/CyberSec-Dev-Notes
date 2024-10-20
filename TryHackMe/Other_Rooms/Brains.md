@@ -114,3 +114,4 @@ port 22, 80, 36401, 50000
 
 ![[Pasted image 20241020204259.png]]
 ![[Pasted image 20241020204320.png]]
+![[Pasted image 20241020213815.png]]
