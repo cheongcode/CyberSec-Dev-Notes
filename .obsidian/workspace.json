@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#WHOIS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +196,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27025d735896491a",
+  "active": "71fd4bb0419fa39e",
   "lastOpenFiles": [
     "OSCP/`whois megacorpone.com -h 192.168.50.251`.md",
     "OSCP/Chapter 6  Information Gathering.md",
