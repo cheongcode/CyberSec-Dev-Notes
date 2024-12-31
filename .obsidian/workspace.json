@@ -11,12 +11,14 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241020195845.png"
+                "file": "TryHackMe/Other_Rooms/Brains.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241020195845"
+              "icon": "lucide-file",
+              "title": "Brains"
             }
           }
         ]
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20241020195544.png",
+                "file": "TryHackMe/Other_Rooms/Brains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20241020195544"
+              "title": "Backlinks for Brains"
             }
           },
           {
@@ -121,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20241020195544.png",
+                "file": "TryHackMe/Other_Rooms/Brains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20241020195544"
+              "title": "Outgoing links from Brains"
             }
           },
           {
@@ -148,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20241020195544.png"
+                "file": "TryHackMe/Other_Rooms/Brains.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20241020195544"
+              "title": "Outline of Brains"
             }
           },
           {
@@ -196,6 +198,7 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
+    "Pasted image 20241020195544.png",
     "TryHackMe/Other_Rooms/Brains.md",
     "Pasted image 20241020213815.png",
     "Pasted image 20241020204320.png",
@@ -203,7 +206,6 @@
     "Pasted image 20241020200821.png",
     "Pasted image 20241020195845.png",
     "Pasted image 20241020195716.png",
-    "Pasted image 20241020195544.png",
     "Pasted image 20241013123554.png",
     "Pasted image 20241013123450.png",
     "TryHackMe/Other_Rooms/Other_Rooms.md",

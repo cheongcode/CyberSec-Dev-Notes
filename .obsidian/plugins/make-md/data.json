@@ -53,7 +53,9 @@
     "//Tags",
     "//TryHackMe/TryHackMe/Pre_Security_Path/TryHackMe/Pre_Security_Path/Images",
     "//TryHackMe/TryHackMe/Other Rooms",
-    "//TryHackMe/TryHackMe/Other_Rooms"
+    "//TryHackMe/TryHackMe/Other_Rooms",
+    "//HackTheBox",
+    "//TryHackMe"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
