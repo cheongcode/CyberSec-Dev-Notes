@@ -11,12 +11,12 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Pasted image 20241020195845.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241020195845"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +66,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "d054b0698dd922c3",
+            "id": "ad57449c02e4110f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md",
+                "file": "Pasted image 20241020195544.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20241020195544"
             }
           },
           {
@@ -111,10 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md",
+                "file": "Pasted image 20241020195544.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20241020195544"
             }
           },
           {
@@ -125,7 +137,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,8 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md"
-              }
+                "file": "Pasted image 20241020195544.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20241020195544"
             }
           },
           {
@@ -143,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -151,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -176,6 +196,7 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
+    "TryHackMe/Other_Rooms/Brains.md",
     "Pasted image 20241020213815.png",
     "Pasted image 20241020204320.png",
     "Pasted image 20241020204259.png",
@@ -184,14 +205,12 @@
     "Pasted image 20241020195716.png",
     "Pasted image 20241020195544.png",
     "Pasted image 20241013123554.png",
-    "TryHackMe/Other_Rooms/Brains.md",
     "Pasted image 20241013123450.png",
     "TryHackMe/Other_Rooms/Other_Rooms.md",
     "TryHackMe/Other_Rooms",
     "TryHackMe/Untitled.md",
     "TryHackMe/Pre_Security_Path/Putting_it_all_together.md",
     "//Pasted image 202410060507091.png",
-    "TryHackMe/Pre_Security_Path/Images/49.png",
     "TryHackMe/Pre_Security_Path/Images/Images.md",
     "TryHackMe/Pre_Security_Path/How_Websites_Work.md",
     "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
