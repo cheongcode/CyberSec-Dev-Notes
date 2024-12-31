@@ -70,7 +70,6 @@ inurl:dashboard
 inurl:controlpanel
 ```
 
-
 ## 7. SQL Error Messages
 # Identify sites vulnerable to SQL injection attacks by finding error messages.
 ```
@@ -121,40 +120,39 @@ site:example.com intext:"@example.com"
 
 ## 14. Discover Vulnerable Web Applications
 # Find websites running specific CMSs (e.g., WordPress, Joomla).
+```
 inurl:wp-admin | inurl:wp-login
 intitle:"Joomla! Administration Login"
+```
 
-## 15. Exposed Devices
-# Locate unsecured IoT or network devices.
-inurl:"/axis-cgi/" | inurl:"/mjpg/video.mjpg"
-
-## 16. Discover Error Pages
-# Identify error messages that might reveal sensitive details about the server.
-intext:"Warning: * failed to open stream"
-intext:"Fatal error: *"
-
-## 17. Search for Databases
+## 15. Search for Databases
 # Identify exposed database management systems.
+```
 inurl:"phpMyAdmin" | inurl:"/dbadmin/"
 inurl:"/db/" | intext:"mysql dump"
+```
 
-## 18. Detect Login Credentials in Git Repositories
+## 16. Detect Login Credentials in Git Repositories
 # Locate sensitive `.env` files that may expose credentials.
+```
 intext:"DB_PASSWORD" filetype:env
 intext:"DB_USER" filetype:env
+```
 
-## 19. Locate Sensitive Directories
-# Find directories meant to be private.
+## 17. Locate Sensitive Directories
+# Find directories meant to be private
+```
 inurl:/private/
 inurl:/conf/
 inurl:/secure/
+```
 
-## 20. Search for Unsecured Portals
+## 18. Search for Unsecured Portals
 # Locate client portals that may not be secured.
+```
 inurl:"portals/" intitle:"client"
+```
 
-## Bonus: Combine Multiple Operators
-# Combine operators for precise results.
-site:example.com inurl:admin | inurl:dashboard intext:"login"
+
 
 

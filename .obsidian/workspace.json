@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#WHOIS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,11 +196,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71fd4bb0419fa39e",
+  "active": "ad57449c02e4110f",
   "lastOpenFiles": [
-    "OSCP/`whois megacorpone.com -h 192.168.50.251`.md",
-    "OSCP/Chapter 6  Information Gathering.md",
     "OSCP/OSCP.md",
+    "OSCP/Chapter 6  Information Gathering.md",
+    "OSCP/`whois megacorpone.com -h 192.168.50.251`.md",
     "OSCP",
     "TryHackMe/Other_Rooms/Brains.md",
     "TryHackMe/Other_Rooms/Images/1.png",
