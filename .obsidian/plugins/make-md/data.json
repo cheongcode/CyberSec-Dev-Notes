@@ -54,8 +54,7 @@
     "//TryHackMe/TryHackMe/Pre_Security_Path/TryHackMe/Pre_Security_Path/Images",
     "//TryHackMe/TryHackMe/Other Rooms",
     "//TryHackMe/TryHackMe/Other_Rooms",
-    "//HackTheBox",
-    "//TryHackMe"
+    "//OSCP"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

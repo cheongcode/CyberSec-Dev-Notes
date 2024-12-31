@@ -1,11 +1,11 @@
-![[Pasted image 20241020195544.png]]
+![Output](Images/1.png)
 
 port 22, 80, 36401, 50000
-![[Pasted image 20241020195716.png]]
+![Output](Images/2.png)
 
-![[Pasted image 20241020195845.png]]
+![Output](Images/3.png)
 
-![[Pasted image 20241020200821.png]]
+![Output](Images/4.png)
 ### **Step-by-Step Explanation:**
 
 1. **Generating the Reverse Shell JSP Payload:**
@@ -112,6 +112,6 @@ port 22, 80, 36401, 50000
 - The flag is:  
     **`THM{faa9bac345709b6620a6200b484c7594}`**
 
-![[Pasted image 20241020204259.png]]
-![[Pasted image 20241020204320.png]]
-![[Pasted image 20241020213815.png]]
+![Output](Images/5.png)
+![Output](Images/6.png)
+![Output](Images/7.png)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md",
+                "file": "OSCP/Chapter 6  Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brains"
+              "title": "Chapter 6  Information Gathering"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md",
+                "file": "OSCP/Chapter 6  Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brains"
+              "title": "Backlinks for Chapter 6  Information Gathering"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md",
+                "file": "OSCP/Chapter 6  Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brains"
+              "title": "Outgoing links from Chapter 6  Information Gathering"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Other_Rooms/Brains.md"
+                "file": "OSCP/Chapter 6  Information Gathering.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Brains"
+              "title": "Outline of Chapter 6  Information Gathering"
             }
           },
           {
@@ -198,14 +198,21 @@
   },
   "active": "27025d735896491a",
   "lastOpenFiles": [
-    "Pasted image 20241020195544.png",
+    "OSCP/`whois megacorpone.com -h 192.168.50.251`.md",
+    "OSCP/Chapter 6  Information Gathering.md",
+    "OSCP/OSCP.md",
+    "OSCP",
     "TryHackMe/Other_Rooms/Brains.md",
-    "Pasted image 20241020213815.png",
-    "Pasted image 20241020204320.png",
-    "Pasted image 20241020204259.png",
-    "Pasted image 20241020200821.png",
-    "Pasted image 20241020195845.png",
-    "Pasted image 20241020195716.png",
+    "TryHackMe/Other_Rooms/Images/1.png",
+    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
+    "TryHackMe/Other_Rooms/Images/Images.md",
+    "TryHackMe/Other_Rooms/Images",
+    "TryHackMe/Other_Rooms/Images/7.png",
+    "TryHackMe/Other_Rooms/Images/6.png",
+    "TryHackMe/Other_Rooms/Images/5.png",
+    "TryHackMe/Other_Rooms/Images/4.png",
+    "TryHackMe/Other_Rooms/Images/3.png",
+    "TryHackMe/Other_Rooms/Images/2.png",
     "Pasted image 20241013123554.png",
     "Pasted image 20241013123450.png",
     "TryHackMe/Other_Rooms/Other_Rooms.md",
@@ -215,7 +222,6 @@
     "//Pasted image 202410060507091.png",
     "TryHackMe/Pre_Security_Path/Images/Images.md",
     "TryHackMe/Pre_Security_Path/How_Websites_Work.md",
-    "HackTheBox/Web_Requests/HyperText Transfer Protocol (HTTP).md",
     "TryHackMe/Pre_Security_Path/HTTP_in_Detail.md",
     "HackTheBox/Web_Requests/GET.md",
     "HackTheBox/Web_Requests/HTTP Headers.md",
@@ -232,16 +238,12 @@
     "HackTheBox/Web_Requests/Cheatsheets",
     "HackTheBox/Web_Requests",
     "HackTheBox/HackTheBox",
-    "HackTheBox",
     "Vault.md",
     "HackTheBox/Untitled.md",
     "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
     "TryHackMe/Pre_Security_Path/README.md",
     "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
     "TryHackMe/Pre_Security_Path/Intro_to_Offensive_Security.md",
-    "TryHackMe/Pre_Security_Path/What_is_Networking.md",
-    "TryHackMe/Pre_Security_Path/Packets_and_Frames.md",
-    "HackTheBox/Web_Requests/Cheatsheets/curl_commands.pdf",
     "Canvas.canvas"
   ]
 }
