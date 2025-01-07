@@ -175,3 +175,6 @@ host www.megacorpone.com
 host -t mx megacorpone.com
 host -t txt megacorpone.com
 dnsrecon -d megacorpone.com -t std
+
+nc -nvv -w 1 -z 192.168.50.152 3388-3390
+nc -nv -u -z -w 1 192.168.50.149 120-123
