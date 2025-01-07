@@ -153,6 +153,12 @@ inurl:/secure/
 inurl:"portals/" intitle:"client"
 ```
 
+`trivera:$apr1$A0vSKwao$GV3sgGAj53j.c3GkS4oUC0`
 
+6.2.4 Open Source Code
 
+- [GitHub](https://github.com/)
+- [GitHub Gist](https://gist.github.com/)
+- [GitLab](https://about.gitlab.com/)
+- [SourceForge](https://sourceforge.net/)
 
