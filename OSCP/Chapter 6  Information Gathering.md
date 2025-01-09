@@ -182,3 +182,4 @@ nc -nv -u -z -w 1 192.168.50.149 120-123
 nmap -p 1-1024 192.168.215.151 --min-rate 1000 -T4
 sudo nmap -p 1-10000 192.168.215.151 --min-rate 10000 -T5 --max-retries 1 --max-rtt-timeout 100ms -n
 sudo nmap -sU -p 150-200 192.168.215.151 --min-rate 10000 -T4 --open
+sudo nmap -sS 192.168.50.149
