@@ -45,7 +45,6 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//HackTheBox/HackTheBox/Web_Requests",
     "//HackTheBox/HackTheBox/HackTheBox/HackTheBox/HackTheBox/Web_Requests",
     "//HackTheBox/HackTheBox/HackTheBox",
     "//HackTheBox/HackTheBox/Web_Requests/HackTheBox/Web_Requests/Cheatsheets",
@@ -54,7 +53,10 @@
     "//TryHackMe/TryHackMe/Pre_Security_Path/TryHackMe/Pre_Security_Path/Images",
     "//TryHackMe/TryHackMe/Other Rooms",
     "//TryHackMe/TryHackMe/Other_Rooms",
-    "//OSCP"
+    "//OSCP",
+    "//TryHackMe",
+    "//TryHackMe/TryHackMe/Other_Rooms/TryHackMe/Other_Rooms/Images",
+    "//HackTheBox"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
