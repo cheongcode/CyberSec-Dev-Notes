@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Untitled.md",
+                "file": "HackTheBox/Boxes/UnderPass .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "UnderPass"
             }
           }
         ],
@@ -213,7 +213,10 @@
   },
   "active": "703bdc5c9c3398c9",
   "lastOpenFiles": [
-    "HackTheBox/Untitled.md",
+    "HackTheBox/Boxes/Boxes.md",
+    "HackTheBox/Boxes",
+    "HackTheBox/Boxes/UnderPass .md",
+    "HackTheBox/Boxes.md",
     "TryHackMe/Other_Rooms/Brains.md",
     "OSCP/Chapter 6  Information Gathering.md",
     "README.md",
@@ -254,11 +257,8 @@
     "HackTheBox/Web_Requests/Images",
     "HackTheBox/Web_Requests/Cheatsheets",
     "HackTheBox/Web_Requests",
-    "HackTheBox/HackTheBox",
     "Vault.md",
     "TryHackMe/Pre_Security_Path/DNS_in_detail.md",
-    "TryHackMe/Pre_Security_Path/README.md",
-    "TryHackMe/Pre_Security_Path/Extending_Your_Network.md",
     "Canvas.canvas"
   ]
 }

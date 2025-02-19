@@ -56,7 +56,8 @@
     "//OSCP",
     "//TryHackMe",
     "//TryHackMe/TryHackMe/Other_Rooms/TryHackMe/Other_Rooms/Images",
-    "//HackTheBox"
+    "//HackTheBox",
+    "//HackTheBox/HackTheBox/Boxes"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
