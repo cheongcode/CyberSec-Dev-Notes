@@ -57,7 +57,8 @@
     "//TryHackMe",
     "//TryHackMe/TryHackMe/Other_Rooms/TryHackMe/Other_Rooms/Images",
     "//HackTheBox",
-    "//HackTheBox/HackTheBox/Boxes"
+    "//HackTheBox/HackTheBox/Boxes",
+    "//HackTheBox/HackTheBox/Boxes/HackTheBox/Boxes/Attachments"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
