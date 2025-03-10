@@ -11,12 +11,14 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "HackTheBox/Boxes/Attachments"
+                "file": "HackTheBox/Boxes/LinkVortex.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Attachments"
+              "title": "LinkVortex"
             }
           },
           {
@@ -33,7 +35,8 @@
               "title": "LinkVortex"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,8 +223,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b95d65a97bbea12b",
+  "active": "d9ee59c19b3a1934",
   "lastOpenFiles": [
+    "HackTheBox/Boxes/Attachments/2.png",
+    "HackTheBox/Boxes/Attachments/Screenshot 2025-03-10 150833.png",
     "HackTheBox/Boxes/LinkVortex.md",
     "HackTheBox/Boxes/Attachments/1.png",
     "HackTheBox/Boxes/Attachments/Attachments.md",
@@ -248,7 +253,6 @@
     "TryHackMe/Other_Rooms/Images/6.png",
     "TryHackMe/Other_Rooms/Images/5.png",
     "TryHackMe/Other_Rooms/Images/4.png",
-    "TryHackMe/Other_Rooms/Images/3.png",
     "TryHackMe/Other_Rooms/Other_Rooms.md",
     "TryHackMe/Other_Rooms",
     "TryHackMe/Untitled.md",
