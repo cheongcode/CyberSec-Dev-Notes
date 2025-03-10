@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Chapter 6  Information Gathering.md",
+                "file": "HackTheBox/Boxes/Dog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6  Information Gathering"
+              "title": "Dog"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Boxes/Dog.md",
+                "file": "HackTheBox/Boxes/UnderPass .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dog"
+              "title": "UnderPass"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +98,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,6 +189,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9cebd4749f62a62c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -212,7 +220,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "703bdc5c9c3398c9",
+  "active": "27025d735896491a",
   "lastOpenFiles": [
     "HackTheBox/Boxes/Dog.md",
     "HackTheBox/Boxes/Attachments/1.png",
