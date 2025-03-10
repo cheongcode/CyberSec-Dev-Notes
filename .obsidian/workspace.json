@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Boxes/Dog.md",
+                "file": "HackTheBox/Boxes/LinkVortex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dog"
+              "title": "LinkVortex"
             }
           },
           {
@@ -220,9 +220,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27025d735896491a",
+  "active": "b95d65a97bbea12b",
   "lastOpenFiles": [
-    "HackTheBox/Boxes/Dog.md",
+    "HackTheBox/Boxes/LinkVortex.md",
     "HackTheBox/Boxes/Attachments/1.png",
     "HackTheBox/Boxes/Attachments/Attachments.md",
     "HackTheBox/Boxes/Attachments",
