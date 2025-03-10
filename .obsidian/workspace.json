@@ -96,8 +96,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,10 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Chapter 6  Information Gathering.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 6  Information Gathering"
+              "title": "Outline"
             }
           },
           {
@@ -200,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,7 +220,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27025d735896491a",
+  "active": "b95d65a97bbea12b",
   "lastOpenFiles": [
     "HackTheBox/Boxes/LinkVortex.md",
     "HackTheBox/Boxes/Attachments/1.png",
