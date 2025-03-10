@@ -25,12 +25,14 @@
             "id": "703bdc5c9c3398c9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "HackTheBox/Boxes/Attachments"
+                "file": "HackTheBox/Boxes/Dog.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Attachments"
+              "title": "Dog"
             }
           }
         ],
@@ -210,12 +212,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3c8385cec9af09f2",
+  "active": "ca2402bced8d1cba",
   "lastOpenFiles": [
+    "HackTheBox/Boxes/Dog.md",
     "HackTheBox/Boxes/Attachments/1.png",
     "HackTheBox/Boxes/Attachments/Attachments.md",
     "HackTheBox/Boxes/Attachments",
-    "HackTheBox/Boxes/Untitled.md",
     "HackTheBox/Boxes/Adminstrator.md",
     "Pasted image 20250219143048.png",
     "Pasted image 20250219142818.png",
@@ -239,7 +241,6 @@
     "TryHackMe/Other_Rooms/Images/5.png",
     "TryHackMe/Other_Rooms/Images/4.png",
     "TryHackMe/Other_Rooms/Images/3.png",
-    "TryHackMe/Other_Rooms/Images/2.png",
     "TryHackMe/Other_Rooms/Other_Rooms.md",
     "TryHackMe/Other_Rooms",
     "TryHackMe/Untitled.md",
