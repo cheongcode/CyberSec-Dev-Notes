@@ -8,5 +8,6 @@
   "code-block-plugin",
   "codeblock-customizer",
   "progressbar",
-  "copy-image"
+  "copy-image",
+  "copy-image-text"
 ]

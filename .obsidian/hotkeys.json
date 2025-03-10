@@ -1,0 +1,10 @@
+{
+  "copy-image-text:copy-markdown": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ]
+}
