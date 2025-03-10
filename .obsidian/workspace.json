@@ -11,6 +11,18 @@
             "id": "27025d735896491a",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "HackTheBox/Boxes/Attachments"
+              },
+              "icon": "lucide-file",
+              "title": "Attachments"
+            }
+          },
+          {
+            "id": "703bdc5c9c3398c9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "HackTheBox/Boxes/LinkVortex.md",
@@ -20,22 +32,9 @@
               "icon": "lucide-file",
               "title": "LinkVortex"
             }
-          },
-          {
-            "id": "703bdc5c9c3398c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox/Boxes/UnderPass .md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UnderPass"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             }
           },
           {
-            "id": "ca2402bced8d1cba",
+            "id": "c645acd1154f74db",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +97,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,7 +220,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b95d65a97bbea12b",
+  "active": "703bdc5c9c3398c9",
   "lastOpenFiles": [
     "HackTheBox/Boxes/LinkVortex.md",
     "HackTheBox/Boxes/Attachments/1.png",
