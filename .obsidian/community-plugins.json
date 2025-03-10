@@ -7,5 +7,6 @@
   "make-md",
   "code-block-plugin",
   "codeblock-customizer",
-  "progressbar"
+  "progressbar",
+  "copy-image"
 ]
