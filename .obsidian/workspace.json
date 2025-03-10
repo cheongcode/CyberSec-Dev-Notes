@@ -33,8 +33,7 @@
               "title": "LinkVortex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +219,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "703bdc5c9c3398c9",
+  "active": "27025d735896491a",
   "lastOpenFiles": [
     "HackTheBox/Boxes/LinkVortex.md",
     "HackTheBox/Boxes/Attachments/1.png",

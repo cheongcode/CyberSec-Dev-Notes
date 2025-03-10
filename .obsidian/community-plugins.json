@@ -4,5 +4,8 @@
   "obsidian-git",
   "omnisearch",
   "recent-files-obsidian",
-  "make-md"
+  "make-md",
+  "code-block-plugin",
+  "codeblock-customizer",
+  "progressbar"
 ]
